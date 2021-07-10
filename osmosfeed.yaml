@@ -1,6 +1,6 @@
 cacheUrl: https://kawgh.github.io/osmos/cache.json
 sources:
-  - href: https://paiza.hatenablog.com/rss
+  - href: https://b.hatena.ne.jp/hotentry.rss
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
