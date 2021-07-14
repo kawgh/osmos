@@ -6,6 +6,267 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20210714-historic-power-plant-mining-bitcoin/",
+          "author": null,
+          "description": "企業が所有する水力発電所が、設備をフルパワーで稼働させても電力を十分に生み出せないことから「電力会社に電気を販売するよりビットコインのマイニングを行う方が得」と判断して、実際に電力の一部でマイニングを行っているということが報じられました。 Mechanicville hydro plant gets new life https://www.timesu...",
+          "link": "https://gigazine.net/news/20210714-historic-power-plant-mining-bitcoin/",
+          "publishedOn": "2021-07-13T22:33:44.000Z",
+          "wordCount": 204,
+          "title": "発電所が「ビットコインマイニングの方が電力販売より稼げる」とマイニングを開始 - GIGAZINE"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html",
+          "author": null,
+          "description": "東京オリンピック・パラリンピックのボランティアに支給されているユニフォームなどが、インターネット上のサイトに販売目的で相次いで出品されていることがわかりました。大会の組織委員会は「規約に反する行為で極めて遺憾だ」としています。 東京オリンピック・パラリンピックの競技会場で活動する大会ボランティアに...",
+          "link": "https://www3.nhk.or.jp/news/html/20210714/k10013138021000.html",
+          "publishedOn": "2021-07-13T21:24:20.000Z",
+          "wordCount": 24,
+          "title": "五輪・パラ ボランティアへの支給品 ネットに出品相次ぐ | オリンピック・パラリンピック | NHKニュース"
+        },
+        {
+          "id": "https://togetter.com/li/1744553",
+          "author": null,
+          "description": "Kohei_Oka 68.80 @aloha_koh 俺のオカンは嗅覚が異常によくて「あ、柑橘系の何かにカビの生えた匂い」とか言うんやけど、1番怖かったのは「なにこれ、タンパク質の腐った匂い。家の中じゃない。外から。あっちの窓から」と言ったしばらく後にそっち方向50mくらい離れたアパートから死後数日たった殺人遺体が発見された時...",
+          "link": "https://togetter.com/li/1744553",
+          "publishedOn": "2021-07-13T17:51:52.000Z",
+          "wordCount": 797,
+          "title": "オカンは嗅覚が異常によいが「タンパク質の腐った匂い。家の中じゃない。外から」と言った数日後に近所で殺人遺体が発見された - Togetter"
+        },
+        {
+          "id": "https://www.oricon.co.jp/news/2200161/full/",
+          "author": null,
+          "description": "テレビアニメ化もされた人気漫画『絶対可憐チルドレン』（略：絶チル　作者：椎名高志）が、14日発売の連載誌『週刊少年サンデー』（小学館）33号で最終回を迎えた。2005年の連載スタートから、約16年の歴史に幕を下ろした。（※2004年に短期連載されている） 【写真】その他の写真を見る 同作は、増え続けるエスパーが軍...",
+          "link": "https://www.oricon.co.jp/news/2200161/full/",
+          "publishedOn": "2021-07-13T15:51:11.000Z",
+          "wordCount": 178,
+          "title": "漫画『絶対可憐チルドレン』完結、連載約16年に幕　アニメ化もされた人気作 | ORICON NEWS"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/116505",
+          "author": null,
+          "description": "新型コロナウイルスのワクチン接種を巡る混乱で、河野太郎行政改革担当相が１３日の記者会見で自らの不手際を認めた。自治体で相次ぐ接種予約の停止を巡り「もう少し早く供給量を示し予約（ペース）を落としてもらう必要があった」と語り、自治体の接種加速が予想を上回っていたことを認め、陳謝した。",
+          "link": "https://www.tokyo-np.co.jp/article/116505",
+          "publishedOn": "2021-07-13T13:40:57.000Z",
+          "wordCount": 303,
+          "title": "ワクチン接種混乱　河野氏「供給追いつかなかった」不手際認め陳謝　自治体「はしご外された」と批判：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210713223549",
+          "author": null,
+          "description": "心優しい青年だった俺は、社会と労働によって歪められてしまった。今なら声を大にして言える。働いたら負け。 仕事のできない人間は攻撃してもいいと思うようになったこっちも迷惑被ってるんだから別にいいと思う。あわよくば消えていただきたい。 他人とのコミュニケーションを避けるようになった話しててイライラする...",
+          "link": "https://anond.hatelabo.jp/20210713223549",
+          "publishedOn": "2021-07-13T13:36:16.000Z",
+          "wordCount": 181,
+          "title": "社会人になって数年で歪んだ俺の価値観10選"
+        },
+        {
+          "id": "https://www.j-cast.com/2021/07/13416116.html?p=all",
+          "author": null,
+          "description": "「コロナは茶番」だと主張するツイッターユーザーが、ノーマスクで京阪電車の1車両をジャックしないかと呼びかけ、物議を醸している。 京阪電鉄側は、この呼びかけを認識しているとし、「社内で対応を検討している」と言う。他の乗客への迷惑となり得る行為だが、乗車を排除できないのだろうか。 京都市内のデモに参加す...",
+          "link": "https://www.j-cast.com/2021/07/13416116.html?p=all",
+          "publishedOn": "2021-07-13T13:10:29.000Z",
+          "wordCount": 166,
+          "title": "「みんなで外せば怖くない！」ノーマスク集団が「車両ジャック」予告　京阪電鉄「社内で対応検討」: J-CAST ニュース【全文表示】"
+        },
+        {
+          "id": "https://dot.asahi.com/dot/2021071300051.html",
+          "author": null,
+          "description": "「西村大臣と河野大臣の危なっかしい発言が続き、世論を揺るがしている。政権は大丈夫か…」 【写真】二階幹事長が推すポスト菅の大穴はこの人 こう不安そうに話すのは、自民党の閣僚経験者だ。 緊急事態宣言中に酒類の提供停止に応じない飲食店に対し、取引金融機関から働き掛けてもらうという「圧力」発言が大炎上し、...",
+          "link": "https://dot.asahi.com/dot/2021071300051.html",
+          "publishedOn": "2021-07-13T13:08:09.000Z",
+          "wordCount": 203,
+          "title": "圧力発言で”西村大臣の乱”「菅首相らも打ち合わせに出席」河野大臣のワクチン弁明に自治体が怒り　 (1/4) 〈dot.〉｜AERA dot. (アエラドット)"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/",
+          "author": null,
+          "description": "今年の夏は、全国的に気温が上昇し、猛暑になるという。熱帯夜が続くことは確実で、夜の睡眠のためにも、エアコンを使いこなすことは例年以上に重要となってくる。既にご存じのことも多いかもしれないが、エアコンと睡眠とのつき合い方を簡潔にまとめてみた。 基本的にはつけっぱなし　気温が28度を超えると、夜間でも熱...",
+          "link": "https://news.yahoo.co.jp/byline/nishidamasaki/20210713-00245869/",
+          "publishedOn": "2021-07-13T12:59:01.000Z",
+          "wordCount": 219,
+          "title": "エアコンつけっぱなしで寝たから朝だるい…どう防ぐ　熱帯夜でも快眠する方法(西多昌規) - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d7250d64a9dc4fd69b90d4a00ec670251ee83a15",
+          "author": null,
+          "description": "静岡県熱海市の土石流災害について「違法な盛り土が要因」との見解を明らかにした難波喬司副知事＝静岡市の静岡県庁で2021年7月13日午後3時52分、山田英之撮影 静岡県熱海市伊豆山（いずさん）地区で発生した土石流災害で、難波喬司副知事は13日に記者会見し、土石流の起点周辺にあった盛り土について「違法な盛り土が災...",
+          "link": "https://news.yahoo.co.jp/articles/d7250d64a9dc4fd69b90d4a00ec670251ee83a15",
+          "publishedOn": "2021-07-13T12:46:32.000Z",
+          "wordCount": 76,
+          "title": "熱海土石流「違法な盛り土が原因」　静岡副知事が見解示す（毎日新聞） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210713204740",
+          "author": null,
+          "description": "時々あるけど、あれは過去の嫌な瞬間が次々思い出されるから精神状態限界になるんじゃなくて 精神状態が限界になると過去の嫌な瞬間が次々思い出されたりするんだということに最近気づいた。 抑肝散加陳皮半夏って漢方が結構効く。飲むと防音室のドアを閉じたみたいに気持ちが落ち着く。まずい、って思ったタイミングで...",
+          "link": "https://anond.hatelabo.jp/20210713204740",
+          "publishedOn": "2021-07-13T12:34:25.000Z",
+          "wordCount": 92,
+          "title": "過去の嫌な瞬間が次々思い出されて叫びたくなるような精神状態になる時"
+        },
+        {
+          "id": "https://nordot.app/787651421096673280",
+          "author": null,
+          "description": "東京五輪の開幕まで10日となった13日、国際オリンピック委員会（IOC）のトーマス・バッハ会長（67）＝ドイツ＝が共同通信のインタビューに応じ、新型コロナウイルス感染拡大の懸念が根強い大会の開催について「日本国民が恐れる必要はない。五輪関係者と日本人を明確に隔離する措置を講じており、大会の安全性に全幅の信...",
+          "link": "https://nordot.app/787651421096673280",
+          "publishedOn": "2021-07-13T12:15:21.000Z",
+          "wordCount": 43,
+          "title": "五輪開催「恐れる必要ない」　バッハ氏、福島と札幌訪問へ ｜ 共同通信"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7F6RGWP7FUTIL069.html",
+          "author": null,
+          "description": "JR東日本は13日、新宿駅の社員11人が新型コロナウイルスに感染したと発表した。11人は、みどりの窓口での切符発売のほか、改札やホームでの案内業務などを担当している。業務中はマスクを着けて接客していたという。利用客との濃厚接触はなく、現時点で列車運行に影響はないという。 同社によると、6日～13日の間に20代...",
+          "link": "https://www.asahi.com/articles/ASP7F6RGWP7FUTIL069.html",
+          "publishedOn": "2021-07-13T11:56:13.000Z",
+          "wordCount": 215,
+          "title": "JR新宿駅の社員11人がコロナ感染　感染経路は不明 [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c341e679446deabb2ddb6c0d2149a5c9c194a541",
+          "author": null,
+          "description": "今月7日、高岡工芸高校で剣道部の男子部員2人が保護者に暴力を受けたとされる問題で、13日、県教育委員会と高岡工芸高校が会見を開き、詳細を説明しました。 会見には、県教育員会の佐野友昭県立学校課長と高岡工芸高校の篠原俊一郎校長が出席し、説明しました。 それによりますと、今月7日、柔道部の見学のため学校を訪...",
+          "link": "https://news.yahoo.co.jp/articles/c341e679446deabb2ddb6c0d2149a5c9c194a541",
+          "publishedOn": "2021-07-13T11:55:51.000Z",
+          "wordCount": 74,
+          "title": "高校で“保護者”が剣道部員の挨拶に激高か…2人に防具つけさせ面や胴何度も踏みつけ 柔道部見学で学校に（富山テレビ） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210713082801",
+          "author": null,
+          "description": "ビジネスホテルでも楽しめる楽器募集中。 家でギターやるからトラベラーズのエレキギターが候補だけど、別の楽器にチャレンジしたい気持ちもある。 - 条件5万円まで。 東横インでもセーフな楽器が良い。 出張なので、持ち運びに便利なのが良い。 - 経緯出張で何日もホテルに泊まることが多い コロナでウロウロできない ...",
+          "link": "https://anond.hatelabo.jp/20210713082801",
+          "publishedOn": "2021-07-13T11:36:40.000Z",
+          "wordCount": 115,
+          "title": "急募 - 東横インでも使える静かな楽器"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/116469",
+          "author": null,
+          "description": "東京五輪・パラリンピックで来日した選手を除く関係者が入国後１４日以内でも宿泊所外のコンビニなどを利用できる特例を巡り、組織委員会が利用状況を調査・記録しないことが分かった。１３日の野党会合で内閣官房が明らかにした。議員たちは「誰がいつどこに行ったのか記録がなければ、新型コロナウイルスが広がっても...",
+          "link": "https://www.tokyo-np.co.jp/article/116469",
+          "publishedOn": "2021-07-13T11:05:20.000Z",
+          "wordCount": 302,
+          "title": "オリパラ関係者のコンビニ・飲食店利用　政府は「調査せず」　野党は「コロナ経路たどれず」と批判：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210713191732",
+          "author": null,
+          "description": "サウザン・ドレッシングとは、マヨネーズをベースにビネガーやケチャップなどを加え、みじん切りにしたピクルスや玉ねぎを混ぜこんだドレッシングのことを言う。 正式名称は「サウザンド・アイランド・ドレッシング」である。 英語ではThousand Island Dressingと書く。 Thousand Islandとは、アメリカとカナダの国境に...",
+          "link": "https://anond.hatelabo.jp/20210713191732",
+          "publishedOn": "2021-07-13T10:47:04.000Z",
+          "wordCount": 147,
+          "title": "なぜサウザン・ドレッシングは「サウザン」なのか"
+        },
+        {
+          "id": "https://www.gamespark.jp/article/2021/07/13/110319.html",
+          "author": null,
+          "description": "2週間で約5,000件の好意的レビューが投稿。",
+          "link": "https://www.gamespark.jp/article/2021/07/13/110319.html",
+          "publishedOn": "2021-07-13T10:29:13.000Z",
+          "wordCount": 205,
+          "title": "悩殺サキュバスARPG『She Will Punish Them』HDオーバーホール後にプレイヤー激増！ | Game*Spark - 国内・海外ゲーム情報サイト"
+        },
+        {
+          "id": "https://www.nikkansports.com/baseball/mlb/news/202107130000426.html",
+          "author": null,
+          "description": "ホームランダービーで盛り上がる陰で、米国の人気コメンテーターがエンゼルス大谷翔平投手（27）に関して不適切発言をし、大炎上する騒動に発展した。 ESPNの番組「ファスト・テイク」に出演し過激な発言で人気を博しているスティーブン・A・スミス氏が、12日の番組内で大谷について言及。「MLBの顔になる選手が、通訳が...",
+          "link": "https://www.nikkansports.com/baseball/mlb/news/202107130000426.html",
+          "publishedOn": "2021-07-13T08:46:16.000Z",
+          "wordCount": 403,
+          "title": "大谷翔平への不適切発言が炎上　米人気コメンテーター「史上最悪コメント」 - ＭＬＢ : 日刊スポーツ"
+        },
+        {
+          "id": "https://togetter.com/li/1744321",
+          "author": null,
+          "description": "一太郎がWordに負け低迷してると思ってたジャストシステムのこの数年右肩上がりでしかも給与が最強クラスで不死鳥のごとく復活してた。 それにしても、みんなジャストシステム好きだなｗ",
+          "link": "https://togetter.com/li/1744321",
+          "publishedOn": "2021-07-13T08:33:37.000Z",
+          "wordCount": 706,
+          "title": "Just Systemが一太郎負けて最近低迷してるかと思いきや株価も上がって給与も最高水準だった - Togetter"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210713162126",
+          "author": null,
+          "description": "アルプス一万尺　こやぎの上で　アルプス音頭をさあ踊りましょう みたいな感じで間違って覚えてそのままのものってある？",
+          "link": "https://anond.hatelabo.jp/20210713162126",
+          "publishedOn": "2021-07-13T08:04:07.000Z",
+          "wordCount": 101,
+          "title": "アルプス一万尺　こやぎの上で　アルプス音頭をさあ踊りましょう　 みたい.."
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/202107-vscode-terminal-on-edit-area/",
+          "author": null,
+          "description": "TL;DR まずはこいつをみてくれ。 左右に分割されたエディタウインドウに、テキストエディタとターミナルが並んでいるのがお分かりになられるでしょうか！！ なにそれ？ これは、先日リリースされた Version 1.58 (June 2021) に含まれる以下のアップデートによるものです。 Terminals in the editor area Terminals can ...",
+          "link": "https://dev.classmethod.jp/articles/202107-vscode-terminal-on-edit-area/",
+          "publishedOn": "2021-07-13T07:22:06.000Z",
+          "wordCount": 331,
+          "title": "[待望のアップデート] VSCodeの内蔵ターミナルがエディタと同様に扱えるようになりました！ | DevelopersIO"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/13/news110.html",
+          "author": null,
+          "description": "セブン-イレブン・ジャパンが7月11日に始めたTwitterキャンペーンが波紋を呼んでいる。無料クーポンをプレゼントする企画だったが、応募のためには個人のTwitterアカウントと外部アプリを連携しようとすると過大な権限が要求されるため、不適切として批判の声が上がっていた。 セブン-イレブン・ジャパンが7月11日に始め...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/13/news110.html",
+          "publishedOn": "2021-07-13T06:53:23.000Z",
+          "wordCount": 146,
+          "title": "「権限要求多すぎ」──セブン-イレブンのTwitterキャンペーンに批判相次ぐ→中止に　なぜこうなったかは「確認中」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://nordot.app/787571772567683072",
+          "author": null,
+          "description": "自民党の下村博文政調会長は13日、党の新型コロナウイルス感染症対策本部などの合同会議で、ワクチン供給に関し「足らないという風評が広がっていることも事実だ」と述べた。実際に不足を訴え予約制限などを行っている自治体が反発する可能性がある。 下村氏は、市中在庫を活用することが重要だと指摘。「丁寧に詳しく説...",
+          "link": "https://nordot.app/787571772567683072",
+          "publishedOn": "2021-07-13T06:53:07.000Z",
+          "wordCount": 42,
+          "title": "下村氏、ワクチン不足は「風評」　自治体反発も ｜ 共同通信"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/51efa0c4a79e388fce00edb8f1d5be5105424cf2",
+          "author": null,
+          "description": "国際オリンピック委員会（ＩＯＣ）のトーマス・バッハ会長が１３日、都内で東京五輪・パラリンピック組織委員会の橋本聖子会長と面会した。 ２３日の五輪開幕に向けて、８日に来日したバッハ会長は９日から１１日の３日間の隔離期間を終え、行動規制期間に入った。用務先を指定した形での活動は可能となったため、この日...",
+          "link": "https://news.yahoo.co.jp/articles/51efa0c4a79e388fce00edb8f1d5be5105424cf2",
+          "publishedOn": "2021-07-13T05:28:09.000Z",
+          "wordCount": 79,
+          "title": "バッハ会長痛恨　日本人と中国人を言い間違い「最も大事なのはチャイニーズピープル」（デイリースポーツ） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://togetter.com/li/1744225",
+          "author": null,
+          "description": "🔞しょうぶ🔞 @ayameshoubu 漫画家、イラストレーターの皆様に大切なお話をしようと思います。 国保から文美に切り替えたら保険料が年額約60万円減りました。 現場からは以上です。 2021-07-12 10:35:28 🔞しょうぶ🔞 @ayameshoubu 当然全員に該当する話ではないので鵜呑みにはしないでください。切り替えることで損する...",
+          "link": "https://togetter.com/li/1744225",
+          "publishedOn": "2021-07-13T03:50:53.000Z",
+          "wordCount": 451,
+          "title": "【朗報】漫画家、イラストレーターの人は「国民健康保険」から「文化美術健康保険」に切り替えると大幅に節税できるかも - Togetter"
+        },
+        {
+          "id": "https://withnews.jp/article/f0210713003qq000000000000000W08k10201qq000023319A",
+          "author": null,
+          "description": "「さすがに、必要ですよね」 そもそもベンチがない問題 「恐れていることが本当に起きるか」を知る まちなかで見かけるベンチに、仕切りや手すりのような突起がついていることは「当たり前」の風景になっています。そんな「排除ベンチ」の一つが、先日、ツイッターをきっかけに形を変えました。〝突起〟が動いたのです。...",
+          "link": "https://withnews.jp/article/f0210713003qq000000000000000W08k10201qq000023319A",
+          "publishedOn": "2021-07-13T03:40:23.000Z",
+          "wordCount": 275,
+          "title": "「排除ベンチ」抵抗した制作者が突起に仕込んだ「せめてもの思い」"
+        },
+        {
+          "id": "https://ledge.ai/nexer-whiteningnote/",
+          "author": null,
+          "description": "TOP > Article Theme > 人工知能（AI）ニュース > 虫歯の要因は「両親の虫歯の有無」が1位、「現在の歯磨き回数」は因果関係確認できず AI活用で調査 株式会社NEXERは、男女3000人を対象にした「虫歯の要因」に関する調査結果を発表した。本調査ではAI（機械学習）を活用し、虫歯になりやすい行動・要因を分析している。...",
+          "link": "https://ledge.ai/nexer-whiteningnote/",
+          "publishedOn": "2021-07-13T03:29:55.000Z",
+          "wordCount": 145,
+          "title": "虫歯の要因は「両親の虫歯の有無」が1位、「現在の歯磨き回数」は因果関係確認できず AI活用で調査 | Ledge.ai"
+        },
+        {
+          "id": "https://swashweb.net/2021/07/12/post-906/",
+          "author": null,
+          "description": "フェミニストグループや、女性の人権団体、LGBTIQ+とトランス主導の団体による共同声明、「フェミニスト原則の再確認を呼びかける」が起草されました。この共同声明の呼びかけ団体は次のとおりです。 性と生殖に関する健康と権利のためのアジア太平洋協会・Asia Pacific Alliance for Sexual and Reproductive Health an...",
+          "link": "https://swashweb.net/2021/07/12/post-906/",
+          "publishedOn": "2021-07-12T22:26:17.000Z",
+          "wordCount": 410,
+          "title": "共同声明「フェミニスト原則の再確認を呼びかける」"
+        },
+        {
           "id": "https://knqyf263.hatenablog.com/entry/2021/07/13/063729",
           "author": null,
           "description": "概要 自分の所属企業であるAqua SecurityがTFsecというOSSを買収しました。 blog.aquasec.com TFsecはどういうツールかというとTerraformの静的解析スキャナーです。Terraformの設定ファイルを渡すことでセキュリティに関する設定ミスを主に検知してくれます。 github.com そのアナウンスに伴い、TFsecは自分が開発して...",
@@ -49,6 +310,15 @@
           "publishedOn": "2021-07-12T19:19:17.000Z",
           "wordCount": 608,
           "title": "女をコントロールすることに喜びを見出してる男尊女卑で家父長制維持派で女性差別主義者が一生懸命印象操作しているようにしか見えない。 - Togetter"
+        },
+        {
+          "id": "https://togetter.com/li/1743911",
+          "author": null,
+          "description": "山本ゆり（syunkon レンジは600W) @syunkon0507 料理コラムニスト。(そんな職業ないで) ブログや本やエッセイを書いてます。 著書「syunkonカフェごはん」シリーズ1～7他(累計700万部) 新刊のエッセイ本「おしゃべりな人見知り」 ブログ「含み笑いのカフェごはん『syunkon』」 インスタグラムもやってますinstagram.com/...",
+          "link": "https://togetter.com/li/1743911",
+          "publishedOn": "2021-07-12T14:58:48.000Z",
+          "wordCount": 408,
+          "title": "山本ゆりさんレシピ「冷凍ガチガチ胸肉がレンジで簡単に【鶏塩チャーシュー】に」→残ったスープで作る絶品うどんもオススメ - Togetter"
         },
         {
           "id": "https://nordot.app/787322755481452544",
@@ -1048,6 +1318,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344316",
+          "author": "Chris Coyier",
+          "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-react-and-javascript/",
+          "publishedOn": "2021-07-13T19:57:10.000Z",
+          "wordCount": 1003,
+          "title": "Links on React and JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343850",
+          "author": "Manuel Matuzovic",
+          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
+          "publishedOn": "2021-07-13T14:58:33.000Z",
+          "wordCount": 2597,
+          "title": "Meta Theme Color and Trickery"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344542",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
+          "publishedOn": "2021-07-13T14:34:48.000Z",
+          "wordCount": 142,
+          "title": "Jamstack Community Survey 2021"
+        },
+        {
           "id": "https://css-tricks.com/?p=344355",
           "author": "Chris Coyier",
           "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -1207,6 +1504,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
+          "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "publishedOn": "2021-07-13T12:00:00.000Z",
+          "wordCount": 3263,
+          "title": "Building A Dynamic Header With Intersection Observer",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.",
+          "link": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 4225,
+          "title": "How To Migrate From jQuery To Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ece22577-f23c-4e9c-a41c-f9000f14ae9d/migrate-jquery-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -1570,20 +1895,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3675,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -1592,6 +1903,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e73db9134ad707be00f206",
+          "author": null,
+          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
+          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
+          "publishedOn": "2021-07-13T13:44:04.000Z",
+          "wordCount": 4795,
+          "title": "How Git Branches Work"
+        },
+        {
+          "id": "609692d82cd0545b5e9441ab",
+          "author": null,
+          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
+          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
+          "publishedOn": "2021-07-13T07:54:34.000Z",
+          "wordCount": 2258,
+          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
+        },
+        {
+          "id": "60e9c888e8ee9b08300ed212",
+          "author": null,
+          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
+          "publishedOn": "2021-07-13T07:36:28.000Z",
+          "wordCount": 2519,
+          "title": "How To Use Axios With React: The Definitive Guide (2021)"
+        },
+        {
+          "id": "60e5b284134ad707be00e5e0",
+          "author": null,
+          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
+          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
+          "publishedOn": "2021-07-13T02:14:52.000Z",
+          "wordCount": 2261,
+          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
+        },
         {
           "id": "60e753aa134ad707be00f2c1",
           "author": null,
