@@ -2,10 +2,352 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawgh.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T00:41:54.667Z</updated>
+    <updated>2021-07-15T00:45:03.951Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://kawgh.github.io/osmos/index.html"/>
     <link rel="self" href="https://kawgh.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[さよなら、フリート]]></title>
+        <id>https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets</id>
+        <link href="https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets"/>
+        <updated>2021-07-14T22:55:40.000Z</updated>
+        <summary type="html"><![CDATA[私たちは、人々がプレッシャーを感じずに、リラックスしてそのときの思いを表現できるようフリートを開発しました。もっと気軽にTwitter上の会話に加わってほしかったからです。しかし、フリートをきっかけに新たにTwitterで会話に参加する人の数は、私たちが望んでいたようには増えていないことが分かりました。そこでT...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作品名に人数が入っていると必ず面白い説]]></title>
+        <id>https://anond.hatelabo.jp/20210715001433</id>
+        <link href="https://anond.hatelabo.jp/20210715001433"/>
+        <updated>2021-07-14T22:44:32.000Z</updated>
+        <summary type="html"><![CDATA[・七人の侍 ・十二人の怒れる男 ・オーシャンズ11 ・300（スリーハンドレッド） ・ふたりはプリキュア]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news062.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news062.html"/>
+        <updated>2021-07-14T22:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学術会議　私が外された理由と「6」の意味　加藤陽子氏：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7F5G05P77UPQJ00T.html</id>
+        <link href="https://www.asahi.com/articles/ASP7F5G05P77UPQJ00T.html"/>
+        <updated>2021-07-14T21:40:35.000Z</updated>
+        <summary type="html"><![CDATA[日本学術会議の会員に推薦されながら、菅義偉首相によって任命を拒否された問題が報道されてから9カ月余り。歴史学者の加藤陽子さんがインタビューに応じた。1930年代を中心にした戦前の日本近代史の研究で知られる加藤さんは、拒否した理由を説明せず、批判されても見直しに応じない現政権を、どう見ているのか。 ――菅...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
+        <id>60d4e7596e1a1407b6b0bb56</id>
+        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
+        <updated>2021-07-14T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, Fleets]]></title>
+        <id>https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets</id>
+        <link href="https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets"/>
+        <updated>2021-07-14T17:48:57.000Z</updated>
+        <summary type="html"><![CDATA[We built Fleets as a lower-pressure, ephemeral way for people to share their fleeting thoughts. We hoped Fleets would help more people feel comfortable joining the conversation on Twitter. But, in the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new pe...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 - 音楽ナタリー]]></title>
+        <id>https://natalie.mu/music/news/436905</id>
+        <link href="https://natalie.mu/music/news/436905"/>
+        <updated>2021-07-14T16:00:46.000Z</updated>
+        <summary type="html"><![CDATA[オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 2021年7月15日 0:55 開会式と閉会式ともにショーディレクターを小林賢太郎、音楽監督を田中知之（FPM）、音楽監督アシスタントをナカムラヒロシ（i-dep、Sotte Bosse）、舞台美術を種田陽平、ライターを放送作家の樋口卓治...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadで「ウィンドウズ」利用可能に　クラウド経由で：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html"/>
+        <updated>2021-07-14T15:33:27.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロソフト（MS）は14日朝、ウィンドウズの基本ソフト（OS）「10」や年末に投入される次世代の「11」がクラウド上で利用できるサービス「ウィンドウズ　365」を始めると発表した。8月2日から企業向けに提供する。アップルのiPad（アイパッド）などからも「ウィンドウズ」が利用できるようになり、働き方やパソコン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、月額制クラウドPC「Windows 365」を8月提供開始。Windows 11にも対応 - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1338124.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1338124.html"/>
+        <updated>2021-07-14T15:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは14日(米国太平洋時間、日本時間7月15日未明)、販売パートナーなどを対象にしたカンファレンス「Inspire 2021」に先だって報道発表を行ない、SaaS(Software as a Service)型の仮想デスクトップとなる「Windows 365」を発表した。同社はAzure Virtual Desktop(AVD)と呼ばれるクラウドベースの仮想デスクトップサービスを提供しているが、AVDが従量制課金でIaaS(Infrastructure as a Service)で青天井の料金であるのに対して、Windows 365では月額固定料金で使えるのが違いとなる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「フェミニスト原則」だけでどうにもならないから今の混沌があるんじゃないの - あままこのブログ]]></title>
+        <id>https://amamako.hateblo.jp/entry/2021/07/14/224731</id>
+        <link href="https://amamako.hateblo.jp/entry/2021/07/14/224731"/>
+        <updated>2021-07-14T15:06:10.000Z</updated>
+        <summary type="html"><![CDATA[swashweb.net TLでは結構絶賛されていて、「真のフェミニズムってこういうことだよな」みたいなことを書かれている上記の声明文。 ただ、どうも僕は読んでいて納得がいかないんですね。 いや、良いこと書いてあるとは思うんですよ？「すべての人々が解放されるまで私たちは戦う」とか、「私たち全員が自由になるまで、私...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html</id>
+        <link href="https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html"/>
+        <updated>2021-07-14T15:01:44.000Z</updated>
+        <summary type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Wi...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=344249</id>
+        <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
+        <updated>2021-07-14T14:31:02.000Z</updated>
+        <summary type="html"><![CDATA[I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …
+The post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bashful Button Worth $8 Million]]></title>
+        <id>https://css-tricks.com/?p=344407</id>
+        <link href="https://cloudfour.com/thinks/a-bashful-button-worth-8-million/"/>
+        <updated>2021-07-14T14:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …
+The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民、五輪前の国会召集を拒否　野党、憲法規定で要求へ：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G72X4P7GUTFK00K.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G72X4P7GUTFK00K.html"/>
+        <updated>2021-07-14T14:09:38.000Z</updated>
+        <summary type="html"><![CDATA[自民党は14日、立憲民主党など野党が求めた臨時国会の召集を改めて拒否した。立憲、共産、国民民主、社民の4党は今週中にも党首会談を開き、憲法53条に基づく召集要求に踏み切る方針だ。 この日は、自民の森山裕、立憲の安住淳両国会対策委員長が国会内で会談。安住氏は野党4党の総意として、東京五輪・パラリンピック前...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
+        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
+        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
+        <updated>2021-07-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P on Twitter: "タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。"]]></title>
+        <id>https://twitter.com/pmjpadjpadt/status/1415200610454958080</id>
+        <link href="https://twitter.com/pmjpadjpadt/status/1415200610454958080"/>
+        <updated>2021-07-14T13:03:58.000Z</updated>
+        <summary type="html"><![CDATA[タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「なぜ、今なのか」　最低賃金引き上げ決定に中小企業の不満噴出　雇用圧迫の懸念も - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/</id>
+        <link href="https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/"/>
+        <updated>2021-07-14T12:17:11.000Z</updated>
+        <summary type="html"><![CDATA[「なぜ今なのか」「パートの勤務を減らすしかない」－。中央最低賃金審議会の小委員会で１４日、最低賃金の大幅な引き上げが示されたことに対し、関西の中小企業からは悲鳴があがった。コロナ禍の影響がより大きい中小には人件費の増大で経営体力を奪われるとの懸念が強く、今後雇用を抑制する動きが加速しかねない。 酒...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【追記しました】女はどこへ行った？「フェミニズム原則」 - 予期せぬ試行錯誤]]></title>
+        <id>https://ponjpi.hatenablog.com/entry/2021/07/14/203415</id>
+        <link href="https://ponjpi.hatenablog.com/entry/2021/07/14/203415"/>
+        <updated>2021-07-14T12:11:33.000Z</updated>
+        <summary type="html"><![CDATA[swashweb.net 共同声明「フェミニスト原則の再確認を呼びかける」を読みました。すっごいいいことが書いてある。賛同、超賛同。うんうん、で？女はどこへ行った。という話。 トランスジェンダー、インターセックス、そしてノンバイナリーの人々が他の多くの人々と共にあるための居場所を強化し、守ります。 うんうん、わ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？：時事ドットコム]]></title>
+        <id>https://www.jiji.com/jc/article?k=2021071401159&amp;g=pol</id>
+        <link href="https://www.jiji.com/jc/article?k=2021071401159&amp;g=pol"/>
+        <updated>2021-07-14T11:48:03.000Z</updated>
+        <summary type="html"><![CDATA[酒停止「広告扱いで留意を」　西村担当相、メディアにも圧力？ 2021年07月14日20時20分 衆院内閣委員会の閉会中審査で質問を聞く西村康稔経済再生担当相＝１４日午前、国会内 西村康稔経済再生担当相は１４日の衆院内閣委員会で、酒類提供停止の要請に応じない飲食店の広告について、各媒体に何らかの対応を促すことを検...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牟田和恵がTERFと連携してんのやばすぎ]]></title>
+        <id>https://anond.hatelabo.jp/20210714204405</id>
+        <link href="https://anond.hatelabo.jp/20210714204405"/>
+        <updated>2021-07-14T11:47:29.000Z</updated>
+        <summary type="html"><![CDATA[https://togetter.com/li/1744776 このまとめにもいるけど jiji @traductricemtl はツイフェミやTERFのインフルエンサーみたいなアカウント。 はてブでも過去何度かホッテントリ入りしている。 人間の知覚というのは優れていて、誰もが他人の身体的性別をほぼ正しく見分けることができます。あなたを含む、世界中の人は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪選手団、急に来日・空港客とタッチ…遮断「不可能」 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html"/>
+        <updated>2021-07-14T11:22:53.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）の選手団の来日がピークを迎え、空港には連日、数百人単位で選手や関係者が入国している。大会中、新型コロナウイルスの感染拡大防止策として、選手団と一般の人たちとを分離する「バブル方式」を採り入れているが、完全な遮断とはほど遠い。 13日午前、成田空港第1ターミナルの北ウイング。複...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ひろゆきが人気なのは他の大人がひろゆきよりダサいからだよ]]></title>
+        <id>https://anond.hatelabo.jp/20210714200902</id>
+        <link href="https://anond.hatelabo.jp/20210714200902"/>
+        <updated>2021-07-14T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[今いる有名人は以下の７パターンばかり ・勘違いした河原乞食（芸人）のなれの果て ・アニメ絵で着飾ったキャバ嬢/ホスト ・金持った途端にろくろを回しだした成金 ・アフィで稼ぐために虚勢を張り続けるメンタリストもどき ・ヤクザや半グレの広告塔 ・スポーツが上手かっただけで人生わかった気になってる脳筋 ・動画...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怒るよりも投票へ　サイゼリヤ社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html"/>
+        <updated>2021-07-14T10:44:17.000Z</updated>
+        <summary type="html"><![CDATA[怒るよりも投票に行こう――。サイゼリヤの堀埜（ほりの）一成社長は14日の決算会見で、コロナ禍で苦しい飲食業界の意向が政策に反映されない理由として関係者の「投票率の低さ」を挙げた。今秋までにある総選挙で投票に行くよう、従業員に呼びかけたという。 堀埜社長は、酒類の提供をやめさせようとした政府の一連の対応...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画『100日間生きたワニ』叩きやすいものを叩いて嘲笑うネットいじめへの激しい怒り | bizSPA!フレッシュ]]></title>
+        <id>https://bizspa.jp/post-483552/</id>
+        <link href="https://bizspa.jp/post-483552/"/>
+        <updated>2021-07-14T10:24:41.000Z</updated>
+        <summary type="html"><![CDATA[映画『100日間生きたワニ』において、公開前から「レビューサイトでの荒らし」がはびこり、「予約システムで遊ぶ迷惑行為」までもが横行した。前者は（後述もするが）作品への誠実な批評をも貶めるものでもあるし、後者は限りなく犯罪に近い。言語道断な愚かしい行為であることは言うまでもない。 それだけに限らず、『1...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鬼滅の複製原稿、集英社が作り直し　「作りが雑」と苦情：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7G4F97P7FUTIL05P.html</id>
+        <link href="https://www.asahi.com/articles/ASP7G4F97P7FUTIL05P.html"/>
+        <updated>2021-07-14T09:30:08.000Z</updated>
+        <summary type="html"><![CDATA[昨年末に人気漫画「鬼滅の刃」の「複製原稿」として販売した作品に重大な問題があったとして、集英社が複製原稿を新たに作り直し、販売済みの商品と交換することが14日、わかった。約4万円と高額ながら、購入者からネット上で「作りが雑」などの批判が出ていた。 複製原稿は、漫画家が実際に描いた生原稿に近い仕上がり...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】東京五輪の開会式 天皇陛下お一人で出席で調整｜TBS NEWS]]></title>
+        <id>https://news.tbs.co.jp/newseye/tbs_newseye4314705.html</id>
+        <link href="https://news.tbs.co.jp/newseye/tbs_newseye4314705.html"/>
+        <updated>2021-07-14T09:08:49.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの開会式について、名誉総裁である天皇陛下がお一人で出席して開会宣言を行う方向で最終調整が行われていることが分かりました。 関係者によりますと、今月２３日に行われる東京オリンピックの開会式には名誉総裁である天皇陛下お一人が出席して開会宣言を行い、皇后さまは出席されない方向で最終調整し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「信号機倒壊原因は『犬の尿』by科捜研」の記事はバカニュースの類か]]></title>
+        <id>https://anond.hatelabo.jp/20210714180449</id>
+        <link href="https://anond.hatelabo.jp/20210714180449"/>
+        <updated>2021-07-14T09:07:55.000Z</updated>
+        <summary type="html"><![CDATA[鈴鹿の信号機柱が折れた原因が犬のおしっこだというNHKのニュースが人気だけど、この報道ちょっと短絡的なんよ。 https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html 地中に尿素が沢山検出された→尿に含まれる塩分のせいで腐食が速く進んだって理路だが、この科捜研の推理、間違いじゃね？普通こういう場...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ会長「日本にリスク持ち込むことは絶対ない」　首相と会談 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210714/k00/00m/010/155000c</id>
+        <link href="https://mainichi.jp/articles/20210714/k00/00m/010/155000c"/>
+        <updated>2021-07-14T07:50:52.000Z</updated>
+        <summary type="html"><![CDATA[会談前に言葉を交わすIOCのトーマス・バッハ会長（左）と菅義偉首相＝首相官邸で2021年7月14日午後3時20分、竹内幹撮影 来日している国際オリンピック委員会（IOC）のトーマス・バッハ会長は14日、首相官邸を訪れ、菅義偉首相と会談した。23日に東京オリンピックの開幕を控え、「我々が日本国内にリスクを持ち込むことは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平井デジタル相が大臣規範違反　IT政務官時代に親密IT企業株を購入 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47100</id>
+        <link href="https://bunshun.jp/articles/-/47100"/>
+        <updated>2021-07-14T07:36:09.000Z</updated>
+        <summary type="html"><![CDATA[自身が保有していたIT企業株を巡り、売却益にかかる所得税を申告していなかったことが明るみに出た平井卓也デジタル相（63）。問題のIT企業株を購入した時期は内閣府政務官を務めており、政務三役在任中の株取引自粛を求める大臣規範に違反していたことが、「週刊文春」の取材でわかった。 平井氏が保有していたのは、IT...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ツイフェミ「フェミニズムとツイフェミって、違ったの…？」 - Togetter]]></title>
+        <id>https://togetter.com/li/1744846</id>
+        <link href="https://togetter.com/li/1744846"/>
+        <updated>2021-07-14T07:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Swash @swash_jp フェミニストグループ、女性の人権団体、LGBTIQ＋やトランス主導の団体など18団体による共同声明、 「フェミニスト原則の再確認を呼びかける」 が発表されました。 共同声明の翻訳を掲載しました。 swashweb.net/2021/07/12/pos… 広く共有のご協力をお願いします。 個人でも団体でも署名できます。 2021...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Web Server Scanning With Nikto]]></title>
+        <id>60ebb55be8ee9b08300ed731</id>
+        <link href="https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/"/>
+        <updated>2021-07-14T07:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[発音の違いによって声優が大体何歳くらいかが分かってしまう『若者と年寄りではもはや話してる言語が違う』 - Togetter]]></title>
+        <id>https://togetter.com/li/1744860</id>
+        <link href="https://togetter.com/li/1744860"/>
+        <updated>2021-07-14T06:27:51.000Z</updated>
+        <summary type="html"><![CDATA[すきえんてぃあ@書け @cicada3301_kig 着ぐるみ生命体／トランスヒューマニスト／コピミズム／言語／謎エスニック料理／リキュール／主なるねこかわの御名において にゃーん twitter.com/search?q=%E6%9… すきえんてぃあ@書け @cicada3301_kig 歳をとった女性声優が若作りして出す声、独特のダミ声のような老化の特徴も...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Crash Course]]></title>
+        <id>60eb2a69e8ee9b08300ed5b3</id>
+        <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
+        <updated>2021-07-14T06:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter]]></title>
+        <id>https://togetter.com/li/1744709</id>
+        <link href="https://togetter.com/li/1744709"/>
+        <updated>2021-07-14T00:04:19.000Z</updated>
+        <summary type="html"><![CDATA[リンク www.ncd-ri.co.jp イメージシステム | カラー戦略の専門家 | NCD-WEB | 色彩心理・生活者研究・トレンド分析の日本カラーデザイン研究所 日本カラーデザイン研究所はオリジナルのカラーシステム「HUE&TONEシステム」やイメージ分析システム「イメージスケール」を開発、発展させてきました。 62 users かたおか＠...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[発電所が「ビットコインマイニングの方が電力販売より稼げる」とマイニングを開始 - GIGAZINE]]></title>
         <id>https://gigazine.net/news/20210714-historic-power-plant-mining-bitcoin/</id>
@@ -1109,6 +1451,16 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[技術ようつべチャンネル集 - Qiita]]></title>
+        <id>https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7</id>
+        <link href="https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7"/>
+        <updated>2021-07-10T13:15:10.000Z</updated>
+        <summary type="html"><![CDATA[役立つYouTubeのチャンネルまとめ 物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する 取っ掛かり、ハマりがち、コツみたいな物が拾える。数学がメイン。随時更新していくつもり 背景 YouTubeは視聴する登録チャンネルの数が増えると...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「復興五輪の意義、見いだせない」福島も無観客、現地しらけムード（毎日新聞） - Yahoo!ニュース]]></title>
         <id>https://news.yahoo.co.jp/articles/87ea36f8a7b370bab596257fd46e6d0b4671acae</id>
         <link href="https://news.yahoo.co.jp/articles/87ea36f8a7b370bab596257fd46e6d0b4671acae"/>
@@ -1919,6 +2271,16 @@ The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[設計を学びたいときに読みたい本一覧 - Qiita]]></title>
+        <id>https://qiita.com/getty104/items/c06773198c0244e7744d</id>
+        <link href="https://qiita.com/getty104/items/c06773198c0244e7744d"/>
+        <updated>2021-07-03T06:49:53.000Z</updated>
+        <summary type="html"><![CDATA[これは何 の参加記事です。 エンジニアとして開発をしていく以上、設計についての知識を身につけていくことはとても重要です。 とはいえ設計という言葉からは何を勉強するべきかがいまいちピンときません。 この記事では、僕が読んできた設計に関するおすすめの本を網羅的に紹介しています。 これから設計を勉強する方の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zero-Width Space]]></title>
         <id>https://css-tricks.com/?p=343435</id>
         <link href="https://css-tricks.com/zero-width-space/"/>
@@ -2118,26 +2480,6 @@ The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks 
         <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nic Chan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
-        <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
-        <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
-        <updated>2021-06-15T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/"/>
-        <updated>2021-06-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
