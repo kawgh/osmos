@@ -2,10 +2,407 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawgh.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:48:52.796Z</updated>
+    <updated>2021-07-21T00:46:48.676Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://kawgh.github.io/osmos/index.html"/>
     <link rel="self" href="https://kawgh.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Nine States of Design]]></title>
+        <id>https://css-tricks.com/?p=345062</id>
+        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
+        <updated>2021-07-20T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
+Modern UI teams are designing components 
+…
+The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
+        <id>605301d528094f59be257c67</id>
+        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
+        <updated>2021-07-20T22:48:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつ..]]></title>
+        <id>https://anond.hatelabo.jp/20210721041852</id>
+        <link href="https://anond.hatelabo.jp/20210721041852"/>
+        <updated>2021-07-20T21:39:24.000Z</updated>
+        <summary type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつて行われた「歌舞伎町浄化作戦」みたいなものだよね ぶっちゃけ今のはてブって「５ちゃんねる@はてブ板」ってくらい閉鎖的で偏った傾向の人達のたまり場になってしまっていて、それでも板の中に籠もってよろしくやってるのならともかく、外部サイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ感染から回復した人の抗体 ”時間経つほど効果高く” | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210721/k10013151001000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210721/k10013151001000.html"/>
+        <updated>2021-07-20T20:30:04.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染して回復した人の抗体を国立感染症研究所などのグループが長期間にわたって調べたところ、回復してからの期間が長いほど感染を防ぐ効果の高い抗体が増えていることが分かりました。グループでは質のいい抗体ができる仕組みが解明できればワクチンの開発などに役立つとしています。 これは国立感...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孤立する首相　「五輪中止」再三の進言、取り合わず [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7M4SHXP7HUTFK01Z.html</id>
+        <link href="https://www.asahi.com/articles/ASP7M4SHXP7HUTFK01Z.html"/>
+        <updated>2021-07-20T20:15:06.000Z</updated>
+        <summary type="html"><![CDATA[昨年9月16日の就任会見を菅義偉首相は新型コロナ対応で切り出し、こんな誓いを立てた。「国民の命と健康を守り抜きます。そのうえで社会経済活動との両立をめざします」 感染防止対策とコロナ禍で傷んだ経済の再生と、相反するような二つの目標を並行して走らせることにした菅政権。就任以来の軌跡を追うと、そこに潜む...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
+        <id>60f2dbac66c61b07d458e5c9</id>
+        <link href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/"/>
+        <updated>2021-07-20T20:04:12.000Z</updated>
+        <summary type="html"><![CDATA[In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://css-tricks.com/?p=344944</id>
+        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-07-20T20:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
+In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
+…
+The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale a System With Process Splitting and Redis]]></title>
+        <id>60ed44c866c61b07d458d023</id>
+        <link href="https://www.freecodecamp.org/news/scale-system-split-processes/"/>
+        <updated>2021-07-20T19:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加藤郁美 on Twitter: "この大失敗フェス・ドキュメンタリーの何が今の東京にとってホラーかというと、これ広告屋フェスなんです。広告屋・企画屋・インスタインフルエンサーのモデルだけが居て、ロジスティクスわかってる人は誰もいないの。いないというか、ロジ方面の不… https://t.co/h5jldfaWl8"]]></title>
+        <id>https://twitter.com/katoikumi/status/1409200616501436417</id>
+        <link href="https://twitter.com/katoikumi/status/1409200616501436417"/>
+        <updated>2021-07-20T18:35:42.000Z</updated>
+        <summary type="html"><![CDATA[この大失敗フェス・ドキュメンタリーの何が今の東京にとってホラーかというと、これ広告屋フェスなんです。広告屋・企画屋・インスタインフルエンサーのモデルだけが居て、ロジスティクスわかってる人は誰もいないの。いないというか、ロジ方面の不… https://t.co/h5jldfaWl8]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
+        <id>60e009e527f80207bcdbd00a</id>
+        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
+        <updated>2021-07-20T17:09:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尾身会長「8月第1週に東京で3千人感染」　見通し示す [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7P029VP7NUTFK028.html</id>
+        <link href="https://www.asahi.com/articles/ASP7P029VP7NUTFK028.html"/>
+        <updated>2021-07-20T15:51:36.000Z</updated>
+        <summary type="html"><![CDATA[政府の新型コロナウイルス感染症対策分科会の尾身茂会長は20日、日本テレビの報道番組で、東京都の1日の新規感染者数について、8月第1週には過去最多の3千人近くまで増加するとの見通しを示した。それに伴い、医療逼迫（ひっぱく）が起きる可能性も「極めて高い」とした。 尾身氏は番組内で、「2週間後には（新規感染者...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウスが加水分解でベタベタ化した話 - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1339127.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1339127.html"/>
+        <updated>2021-07-20T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[今年に入ってからつい最近まで、デスクトップのMacではロジクールの「MX Anywhere 3 for Mac」というワイヤレスマウスを使っていた。それまで使っていたマウスはロジクールのハイエンドマウス「MX Master 3」で、そのラバー素材部分がベタベタしてきたので、ベタベタしていないMX Anywhere 3 for Macを使い始めた。ベタベタは、恐らくラバー素材（ポリウレタンなど）が加水分解し始めたのだと思われる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橋本会長「東京大会への支持率がまた少し落ちてしまっている」 | オリンピック・パラリンピック | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013150711000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013150711000.html"/>
+        <updated>2021-07-20T15:28:24.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック・パラリンピック組織委員会の橋本会長は、IOC＝国際オリンピック委員会の総会のあと記者会見し「安全であったはずのプレーブックが安心につながっていないという現状が大きな不安につながっている。大会への支持率がまた少し落ちてしまっているという思いはある」と述べ、感染対策に力を入れることで国...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぼくは文学のえっちなところが好きだ - 安藤コウヘイ/馬渕朝子 | 少年ジャンプ＋]]></title>
+        <id>https://shonenjumpplus.com/episode/3269754496408856088</id>
+        <link href="https://shonenjumpplus.com/episode/3269754496408856088"/>
+        <updated>2021-07-20T15:25:51.000Z</updated>
+        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+        <id>https://css-tricks.com/?p=344497</id>
+        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
+        <updated>2021-07-20T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
+The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾン創業者ベゾス氏 宇宙旅行に成功 | IT・ネット | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013151071000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013151071000.html"/>
+        <updated>2021-07-20T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[IT大手アマゾンの創業者ジェフ・ベゾス氏が20日、みずから設立した宇宙開発企業の宇宙船に搭乗し宇宙への飛行に成功しました。 IT大手アマゾンの創業者ジェフ・ベゾス氏はみずから設立した宇宙開発企業「ブルーオリジン」が開発した宇宙船とロケットで商業ベースの宇宙旅行を提供することを目指しています。 20日、テキ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[62歳の宮崎美子、マクドナルトCMで初々しい中学生少女を見事に演じる　「暖かい目でぜひ見てください」 - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/20/news152.html"/>
+        <updated>2021-07-20T14:49:27.000Z</updated>
+        <summary type="html"><![CDATA[俳優の宮崎美子さんが7月20日から放送開始されたマクドナルドのCMに出演。“50年前”と“現在”の2役を演じています。50年前バージョンの宮崎さん、初々しいなあ……。 家族といっしょに。「僕がここにいる理由」篇 60秒 50年前の7月20日にオープンしたマクドナルド銀座1号店。CMでは50年前の同店舗を再現し、宮崎さんは“50年...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ嗅覚異常“20代30代の7割” 改善に1～2年かかる可能性も | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013150951000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013150951000.html"/>
+        <updated>2021-07-20T14:21:06.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスに感染し、嗅覚に異常を感じた人の割合は20代と30代でおよそ7割にのぼり、若い世代ほどその割合が高かったことが国の研究班の調査で分かりました。 それによりますと、ことし2月から5月にかけて無症状から中等症までの患者251人にアンケートを行ったところ、嗅覚に異常があると答えたのは20代と30代で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京五輪　菅首相の首脳級会談20人下回る　来日見合わせ続出 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210720/k00/00m/010/342000c</id>
+        <link href="https://mainichi.jp/articles/20210720/k00/00m/010/342000c"/>
+        <updated>2021-07-20T13:43:14.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの開会式出席に合わせ、菅義偉首相と会談する各国首脳級の人数が20人を下回る見通しになった。政府関係者が20日明らかにした。首相と会談せず開会式のみ出席するケースもあるとみられるが、新型コロナウイルスの感染拡大で来日自体を見合わせる首脳級が続出しているためだ。 外務省によると、開会式に出...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丸川五輪相　当初の小山田氏続投「理解できませんと申し上げた」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/117914</id>
+        <link href="https://www.tokyo-np.co.jp/article/117914"/>
+        <updated>2021-07-20T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪開会式の楽曲を担当するミュージシャンの小山田圭吾さんが過去の雑誌インタビューで告白した学生時代のいじめを理由に辞任した問題で、丸川珠代五輪相は20日の記者会見で、小山田氏の辞任前に東京五輪・パラリンピック組織委員会とやり取りしたことを明かした。組織委員会は当初、小山田氏を続投させる考えを示...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「もう選手来ちゃっている」バブル方式の不備を野党追及も丸川五輪相応じず（日刊スポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48</id>
+        <link href="https://news.yahoo.co.jp/articles/16d0de844b0df929082470026dcf0a980f576c48"/>
+        <updated>2021-07-20T13:31:10.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党は20日、丸川珠代五輪担当相に東京オリンピック（五輪）・パラリンピックで新型コロナ対策の「バブル方式」や、水際対策の不備を指摘した要望書を手渡した。 【写真】閣議後会見を行った丸川珠代五輪相 逢坂誠二氏は「政府から虚偽の説明が繰り返されてきた」とした上で大会関係者の外出が事実上、野放しの実...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪開催中の中止や延期「そういう状況が出てきた時に考える」武藤事務総長 - 東京オリンピック2020 : 日刊スポーツ]]></title>
+        <id>https://www.nikkansports.com/olympic/tokyo2020/news/202107200000855.html</id>
+        <link href="https://www.nikkansports.com/olympic/tokyo2020/news/202107200000855.html"/>
+        <updated>2021-07-20T13:28:12.000Z</updated>
+        <summary type="html"><![CDATA[国際オリンピック委員会（IOC）の第138次総会が20日、都内のホテルで行われ、終了後に大会組織委員会の橋本聖子会長（56）と武藤敏郎事務総長（78）がメインプレスセンター（MPC）で会見した。 海外メディアから今後、新型コロナウイルス感染拡大で、開催中での中止や延期の可能性について質問があった。武藤氏は「今の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB特集 登山道が消える!? 北アルプス登山に危機 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013147531000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013147531000.html"/>
+        <updated>2021-07-20T13:21:59.000Z</updated>
+        <summary type="html"><![CDATA[「営業すればするほど赤字が増えてしまう」 「これ以上営業を継続できない」 北アルプスで山小屋を営む経営者の悲痛な声です。NHKが行ったアンケート結果からは、コロナ禍で山小屋の経営悪化だけにとどまらない大きな課題も見えてきました。 （映像センター山岳取材班カメラマン 岡部馨 奥田悠/ニュースウオッチ9ディレ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【東京五輪】選手村に…テレビもねえ！冷蔵庫もねえ！トイレも少ねえ！ 追及に組織委は困惑（東スポWeb） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/035018468065570dc98dfd31cb667303552657ea</id>
+        <link href="https://news.yahoo.co.jp/articles/035018468065570dc98dfd31cb667303552657ea"/>
+        <updated>2021-07-20T13:19:24.000Z</updated>
+        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会は２０日、都内のメインプレスセンター（ＭＰＣ）で会見を行った。 【写真】バッハ会長宿泊ホテル前でもみ合う警官隊とデモ隊 報道陣から１９日に開会式の楽曲制作担当を辞任したミュージシャンの小山田圭吾（５２）や新型コロナ対策に関する質問が出た中、ある海外メディアはロシア...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
+        <id>60f1d20a66c61b07d458e4a3</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
+        <updated>2021-07-20T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyeong Uk, Han on Twitter: "オリンピック選手村のエアコンボタンが日本語しかなくて外人がみんな死んでるって話を聞いて笑ってる OMOTENA死 https://t.co/xGvFQKSmwR"]]></title>
+        <id>https://twitter.com/haaan_co/status/1417365376988377088</id>
+        <link href="https://twitter.com/haaan_co/status/1417365376988377088"/>
+        <updated>2021-07-20T12:56:01.000Z</updated>
+        <summary type="html"><![CDATA[オリンピック選手村のエアコンボタンが日本語しかなくて外人がみんな死んでるって話を聞いて笑ってる OMOTENA死 https://t.co/xGvFQKSmwR]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開閉式コンセプトに「復興五輪」記載ゼロ…式典Pの言い訳にも批判殺到（女性自身） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/4881aff53c959f59fb75203945fb204cacf96ac3</id>
+        <link href="https://news.yahoo.co.jp/articles/4881aff53c959f59fb75203945fb204cacf96ac3"/>
+        <updated>2021-07-20T12:46:40.000Z</updated>
+        <summary type="html"><![CDATA[開催直前にも関わらず、不祥事が相次ぐ東京オリンピック・パラリンピック。そんななか、7月14日に発表された開閉式のコンセプトにも、批判が集まっている。 今回発表された五輪パラ4式典の共通コンセプトは「Moving Forward（ムービング　フォワード）」、五輪開会式は「United Emotion（ユナイテッド　エモーション）」...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア五輪委、選手村を酷評「中世の時代。選手かわいそう」　橋本会長「対応したい」：朝日新聞GLOBE＋]]></title>
+        <id>https://globe.asahi.com/article/14399681</id>
+        <link href="https://globe.asahi.com/article/14399681"/>
+        <updated>2021-07-20T12:12:57.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの開幕を控え、続々と各国選手団が晴海にある選手村に入っている。しかし、組織的なドーピング違反のため、国家としての参加ができないロシア・オリンピック委員会（ROC）幹部から、選手村の状況について酷評される事態が露呈した。 ロシア国営メディアによると、同幹部は選手村の状況について「風呂が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[木野龍逸 (Ryuichi KINO) on Twitter: "東京オリンピック、メディアセンターのメシが高くてまずいという新たなスキャンダル。 これで1600円らしい😨 メディアセンターは入れないので入れる人に見てきてほしいです。 https://t.co/FKkyqxldUC"]]></title>
+        <id>https://twitter.com/kinoryuichi/status/1417432801259888640</id>
+        <link href="https://twitter.com/kinoryuichi/status/1417432801259888640"/>
+        <updated>2021-07-20T11:11:23.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック、メディアセンターのメシが高くてまずいという新たなスキャンダル。 これで1600円らしい😨 メディアセンターは入れないので入れる人に見てきてほしいです。 https://t.co/FKkyqxldUC]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/20/news136.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/20/news136.html"/>
+        <updated>2021-07-20T10:42:18.000Z</updated>
+        <summary type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に 米Alphabet傘下の英DeepMindが、遺伝子配列情報からタンパク質の立体構造を解析するAI「AlphaFold2」をGitHub上で無償公開し、ネット上で注目を集めている。 米Alphabet傘下の英DeepMindが、遺伝子...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
+        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
+        <updated>2021-07-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」/東京五輪/デイリースポーツ online]]></title>
+        <id>https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml</id>
+        <link href="https://www.daily.co.jp/olympic/tokyo2020/2021/07/20/0014519260.shtml"/>
+        <updated>2021-07-20T10:26:55.000Z</updated>
+        <summary type="html"><![CDATA[組織委　小山田氏は「我々が選んだわけではない」　式典チームが「仲間を誘って」 拡大 東京五輪・パラリンピック組織委員会の橋本聖子会長、武藤敏郎事務総長が２０日、国際オリンピック委員会（ＩＯＣ）の総会出席後にメーンプレスセンター（ＭＰＣ）で会見した。 前日に雑誌で障がい者とみられる同級生をいじめていた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「習近平のID番号でユーザー登録すると…」ダメ警官が指導者の個人情報を転売、中国“最強監視社会”のショボい裏側 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47249</id>
+        <link href="https://bunshun.jp/articles/-/47249"/>
+        <updated>2021-07-20T10:06:16.000Z</updated>
+        <summary type="html"><![CDATA[いっぽう、肖彦鋭は2018年から日本の関西地方で事実上の亡命生活を送っている。彼は続ける。 「習近平の戸籍登録地や誕生日・性別は公開情報だろ？　だから、実は18桁の身分証番号のうちで15桁までは外部の人間でも予測できる。不明なのは残りのたった3桁なんだ。ここまでは簡単で、実は手動でも番号を特定できてしまう...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『いじめは起きるもの』と認識して学校のシステムに反映されている例→日本のスタンスとの違いが話題に「初動がホント早い」 - Togetter]]></title>
+        <id>https://togetter.com/li/1747516</id>
+        <link href="https://togetter.com/li/1747516"/>
+        <updated>2021-07-20T09:19:10.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇸しまき - 「コミュ障居酒屋」スペース（土曜日夕方４時）やってます。 @readeigo 私の知る限りアメリカの公立校は「子供っていじめるものだ」と認識しているので ✅子供が同メンツで固定されず流動的 ✅毎年クラス替え。同クラスになりたくない子を申請 ✅いじめた子は即(二日等）謹慎処分 ✅公立校でも学校転校は容易...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埼玉の大規模接種休止へ　知事、国を痛烈に批判 ｜ 共同通信]]></title>
+        <id>https://nordot.app/790136577745698816</id>
+        <link href="https://nordot.app/790136577745698816"/>
+        <updated>2021-07-20T08:43:31.000Z</updated>
+        <summary type="html"><![CDATA[埼玉県は20日、さいたま市で実施中の新型コロナウイルスワクチン大規模接種を8月1～15日、休止すると発表した。同期間分のワクチンを配送できないと政府から連絡があったといい、大野元裕知事は記者会見で「国のガバナンスが失われている。あきれて言葉もない」と批判した。 県によると、休止するのはさいたま市の合同庁...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「接種したら無期限の自宅待機」タマホーム社長が社員に“ワクチン禁止令” | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/47270</id>
+        <link href="https://bunshun.jp/articles/-/47270"/>
+        <updated>2021-07-20T07:17:20.000Z</updated>
+        <summary type="html"><![CDATA[約1カ月前の6月初旬、ほぼ全社員がオンラインで視聴した「経営方針発表会」ではこんな一幕があった。玉木氏が突然、「ワクチンを接種したら5年後に死にますからね」と口走ったというのだ。社員のA氏が明かす。 「ギョッとしました。その後『5Gがコロナ感染を引き寄せる』という意味のことも言いました。まったく理解でき...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アジア人差別」をしたフランス人が「差別じゃない」と本気で否定する理由（田中 晴子） | FRaU]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/85321</id>
+        <link href="https://gendai.ismedia.jp/articles/-/85321"/>
+        <updated>2021-07-20T04:30:02.000Z</updated>
+        <summary type="html"><![CDATA[6月にセルビアの女子バレーボールの選手、そして7月にサッカーのフランス代表の選手と、世界で活躍するスポーツ選手らによるアジア人差別ととれる言動が立て続けに報じられた。いずれのケースでも、本人たちは「差別のつもりはなかった」と釈明している。なぜ彼らに差別の認識がないのか、疑問に思った人は少なくないだ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デザイン盗作・「ルックバック」の藤本タツキは天才ではない。あるいは少年ジャンプの才能枯渇問題 - フロイドの狂気日記]]></title>
+        <id>https://www.byosoku100.com/entry/2021/07/20/053000</id>
+        <link href="https://www.byosoku100.com/entry/2021/07/20/053000"/>
+        <updated>2021-07-20T01:58:45.000Z</updated>
+        <summary type="html"><![CDATA[ルックバック - 藤本タツキ | 少年ジャンプ＋ 内容は楽しく読めたんだけど、これに対しての大絶賛コメと天才大合唱が不気味すぎる。それにプロ漫画家(超一線級のSクラスではない)までがTwitterで心を動かされたとか言っている。だいたいそういう人らのヒロイックな自虐と謙遜は見るに耐えない。そもそもなんだけど、この...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年のエンジニア新人研修の講義資料を公開しました - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+        <id>https://blog.cybozu.io/entry/2021/07/20/100000</id>
+        <link href="https://blog.cybozu.io/entry/2021/07/20/100000"/>
+        <updated>2021-07-20T01:06:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。開発本部 オンボーディングチームの酒井（@sakay_y）です。社内のオンボーディングコンテンツを、どんどん社外へ公開することを夢見ています。 2021年もエンジニア新人研修を行いましたので、軽い紹介と、講義資料および一部講義動画（New!）を公開いたします。 2021年のエンジニア研修について 講義資料公...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五輪応援職員に都「2回目接種は大会後」　副反応が理由 [新型コロナウイルス]：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP7M66NRP7HUTIL05P.html</id>
