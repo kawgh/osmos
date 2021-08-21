@@ -2,10 +2,385 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawgh.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T00:43:48.233Z</updated>
+    <updated>2021-08-21T00:43:24.120Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://kawgh.github.io/osmos/index.html"/>
     <link rel="self" href="https://kawgh.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「幸せな低酸素症」に注意 自宅療養者 息苦しさ感じず重症化も | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210821/k10013214951000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210821/k10013214951000.html"/>
+        <updated>2021-08-20T22:16:34.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの患者の中には、肺炎が悪化して血液中の酸素の状態が悪くなっても息苦しさを感じないケースが報告されています。「幸せな低酸素症」と呼ばれる症状で、自宅で療養する患者が過去最多となる中、自分で気付かないうちに重症化する場合もあるため、専門家は血液中の酸素の値をパルスオキシメーターで繰...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
+        <id>https://css-tricks.com/?p=350186</id>
+        <link href="https://css-tricks.com/disambiguating-tailwind/"/>
+        <updated>2021-08-20T19:59:47.000Z</updated>
+        <summary type="html"><![CDATA[I appreciated this bit of nuance from a post on Viget’s blog:
+There could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:
+1. Stock tailwind, ie. no changes to the 
+…
+The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子どものコロナ感染急増 小児科医「学校で感染前提に対策を」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210821/k10013215231000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210821/k10013215231000.html"/>
+        <updated>2021-08-20T19:35:35.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大が続く中、子どもの感染も急増しています。 夏休みが明けて小学校などで授業が始まるのを前に小児科医からは「早期の把握など学校で感染が増えるのを前提に対策を進めるべきだ」という指摘が出ています。 東京都内の小児科医でつくる「東京小児科医会」の時田章史理事は、東京 港区で小児科...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
+        <id>611fd94c3bccf807612a4160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
+        <updated>2021-08-20T18:20:42.000Z</updated>
+        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[悪意のない加害者に読んでもらいたい「死役所」の回が話題に - Togetter]]></title>
+        <id>https://togetter.com/li/1762629</id>
+        <link href="https://togetter.com/li/1762629"/>
+        <updated>2021-08-20T17:59:41.000Z</updated>
+        <summary type="html"><![CDATA[えいなか(GADHA) @EiNaka_GADHA これは…「悪意のない」加害者にぜひ読んでもらいたい回……GADHAのサイトにもリンクを貼りたいレベルだけどアクセスは時限式かな。 加害者が「被害者ぶる」ケースは本当にめちゃくちゃあって、掘り下げず聞くと本当に被害者のように思える。というか本人の中では真実。 comicbunch.com/mang...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
+        <id>611bf4f8e884de0752180979</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
+        <updated>2021-08-20T17:54:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
+        <id>611f9b083bccf807612a3df0</id>
+        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
+        <updated>2021-08-20T17:21:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亡命希望のロシア人が北海道に　「国後島から泳いできた」 ｜ 共同通信]]></title>
+        <id>https://nordot.app/801496777239543808</id>
+        <link href="https://nordot.app/801496777239543808"/>
+        <updated>2021-08-20T17:09:21.000Z</updated>
+        <summary type="html"><![CDATA[ロシア人の男性1人が北海道東部に上陸し、道警が事情を聴いていることが20日、政府関係者らへの取材で分かった。「亡命のために国後島から泳いできた」と話しているという。 国後島から北海道東部の沿岸部までは約20キロ。政府関係者らによると、札幌出入国在留管理局に男性の身柄を移し、実際に泳いできたのかも含めて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ふらいと on Twitter: "大阪は妊婦のたらい回しは起きないのか？という問い合わせがありますが、起こらないという安心感があります。 大阪の周産期医療体制は首都圏の先生方からよく「層が暑い」「鉄壁」と言われます。 自分も地方のNICUから移籍時、強固に確立… https://t.co/49KALuIJCF"]]></title>
+        <id>https://twitter.com/doctor_nw/status/1428653494219677698</id>
+        <link href="https://twitter.com/doctor_nw/status/1428653494219677698"/>
+        <updated>2021-08-20T15:18:06.000Z</updated>
+        <summary type="html"><![CDATA[大阪は妊婦のたらい回しは起きないのか？という問い合わせがありますが、起こらないという安心感があります。 大阪の周産期医療体制は首都圏の先生方からよく「層が暑い」「鉄壁」と言われます。 自分も地方のNICUから移籍時、強固に確立… https://t.co/49KALuIJCF]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Headless WordPress Site With Frontity]]></title>
+        <id>https://css-tricks.com/?p=346702</id>
+        <link href="https://css-tricks.com/creating-headless-wordpress-site-with-frontity/"/>
+        <updated>2021-08-20T14:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …
+The post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生まれて初めての『マツケンサンバ』に立ち尽くす子供たち→令和生まれにマツケンは刺激が強かったか？ - Togetter]]></title>
+        <id>https://togetter.com/li/1762633</id>
+        <link href="https://togetter.com/li/1762633"/>
+        <updated>2021-08-20T14:24:58.000Z</updated>
+        <summary type="html"><![CDATA[昼と夜 @dayandnight00 うちの2歳児がマツケンサンバを前にして呆然と立ちすくんでます。令和boyには刺激が強すぎるようだ。（One Night Carnivalは踊ってた） pic.twitter.com/I6NtwWf8yl 2021-08-20 21:06:48]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大森靖子の騒動:ロマン優光連載193 - ブッチNEWS（ブッチニュース）]]></title>
+        <id>https://bucchinews.com/subcul/6841.html</id>
+        <link href="https://bucchinews.com/subcul/6841.html"/>
+        <updated>2021-08-20T13:40:16.000Z</updated>
+        <summary type="html"><![CDATA[実話BUNKA超タブー2021年9月号 コンビニ・書店で8/2発売　毎月2日発売　特別定価620円（税込） ▼100年間人をゴミのように殺し続けてきた中国共産党大虐殺の百年史 ▼「最近の日本はおかしくなっている」とか言ってるバカに告ぐ！　残念ながら世の中は徐々にまともになっているのです ▼コロナ禍で政府の本音「飲食業など潰...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 今月27日から渋谷駅近くで若者向けワクチン接種実施へ | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210820/k10013214971000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013214971000.html"/>
+        <updated>2021-08-20T13:08:57.000Z</updated>
+        <summary type="html"><![CDATA[東京都が若者向けに渋谷駅近くに設けるワクチン接種会場は、今月27日から運用が始まり、1日当たり200人程度の接種を行うことになりました。 場所は、渋谷区神南にある「区立勤労福祉会館」で、自治体から送られてくる接種券と、本人であることを証明するものがあれば、事前の予約なしで接種が受けられます。 対象は、16...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「大谷さんは何者なのか？」アメリカで人間扱いされていない大谷翔平選手がどう呼ばれているのかを収集した結果が面白い - Togetter]]></title>
+        <id>https://togetter.com/li/1762566</id>
+        <link href="https://togetter.com/li/1762566"/>
+        <updated>2021-08-20T12:55:35.000Z</updated>
+        <summary type="html"><![CDATA[MLB Japan @MLBJapan 【 #エンゼルス 】#大谷翔平 特大の第40号ホームラン！！そして自身最長の8回を投げ、無四球1失点8奪三振の好投🙌 『1番・投手』が投打に輝き8勝目です✨ #日本人選手情報 pic.twitter.com/qaXlnCnNSq 2021-08-19 12:12:42 リンク Full-Count（フルカウント） ― 野球ニュース・速報・コラム ― 大谷...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「専門家は言い切らないが、インフルエンサー的存在は断言するので後者を信用する」人もいる事をどう考えればいいのか - Togetter]]></title>
+        <id>https://togetter.com/li/1762519</id>
+        <link href="https://togetter.com/li/1762519"/>
+        <updated>2021-08-20T12:13:09.000Z</updated>
+        <summary type="html"><![CDATA[ユーリィ・イズムィコ @OKB1917 しかし「専門家は言い切らないがインフルエンサー的な人は断言するから人はそっちの方を信用する」という話については専門家側もコミュニケーション戦略をもう少し考えた方がよいと思うのだよぬ。「99.9999%ない」ことを「可能性は排除できない」と言ってしまうようなことは一般向けには...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新型コロナ対策】菅首相はすぐに国会を開け！ 今のままでは責任放棄だー江川紹子の提言]]></title>
+        <id>https://biz-journal.jp/2021/08/post_245756.html</id>
+        <link href="https://biz-journal.jp/2021/08/post_245756.html"/>
+        <updated>2021-08-20T11:56:35.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相（写真左）と尾身茂コロナ対策分科会会長（Getty Imagesより） 先に結論を述べる。 菅義偉首相は、ただちに臨時国会の召集を決定し、新型コロナウイルスの感染拡大を収束させるために必要な法整備について、早急に論議を始めるべきだ。 見通し甘く、対応が後手後手の菅政権 その理由は2つ。第1に、今の感染状...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[｢日本人のコロナ自粛はすごかった｣上から目線で"緩み"に怒る人はこれ以上なにを望むのか 被害甚大な欧米がマスクなしのワケ | PRESIDENT Online（プレジデントオンライン）]]></title>
+        <id>https://president.jp/articles/-/49087</id>
+        <link href="https://president.jp/articles/-/49087"/>
+        <updated>2021-08-20T11:38:12.000Z</updated>
+        <summary type="html"><![CDATA[欧米ではコロナ禍に終わりが見え、「マスクなし」の生活に戻りつつある。なぜ日本は後れているのか。評論家の山形浩生さんは「日本人のコロナ自粛は、欧米先進国に比べれば、よっぽどすごかった。各国の被害は日本以上だが、コロナ禍に見切りをつけて、いまのような“戒厳令もどき”を意図的に終わらせようとしている。日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子どもの感染拡大に小池知事「まず家庭で健康観察を」…パラ観戦は実施「ぜひ理解いただきたい」：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/125739</id>
+        <link href="https://www.tokyo-np.co.jp/article/125739"/>
+        <updated>2021-08-20T10:48:57.000Z</updated>
+        <summary type="html"><![CDATA[記者からは、医療提供体制が非常に厳しい中で大会を開き、学校連携観戦も行うことに都民の理解を得られると認識しているかを問う質問があり、小池知事は「はい。ぜひ理解していただきたいと思います」と答えた。 小池知事は会見の冒頭、１０代以下の感染拡大に触れ、各家庭で毎日、子どもの検温をすることなどの健康観察...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[｢いつまで"最後の我慢"を続けるのか｣これ以上､高齢者のために子供を犠牲にするべきではない 自粛の後遺症を考えたことがあるか | PRESIDENT Online（プレジデントオンライン）]]></title>
+        <id>https://president.jp/articles/-/49085</id>
+        <link href="https://president.jp/articles/-/49085"/>
+        <updated>2021-08-20T10:45:21.000Z</updated>
+        <summary type="html"><![CDATA[8月4日、1都3県の知事は「最後の我慢」を訴え、旅行、帰省の原則中止や積極的なワクチン接種への協力を呼びかけた。評論家の山形浩生さんは「これまで何度、この手の台詞を聞いたことか。こんな呼びかけはいつまでも続けられるものではない。高齢者の命を守るために、若者や子供を犠牲にするのは、もうやめるべきだ」と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アフガン タリバン戦闘員がドイツのジャーナリストの家族殺害 | アフガニスタン | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210820/k10013214771000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013214771000.html"/>
+        <updated>2021-08-20T10:43:40.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンの武装勢力タリバンが、ドイツの放送局に所属するジャーナリストの家族を殺害したことが明らかになりました。タリバンは、一定の条件のもとでの取材活動を認める考えを示していましたが、今後、国際的な非難の声が上がることも予想されます。 ドイツの放送局「ドイチェ・ヴェレ」は19日、所属するジャーナ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ワクチン入りトマトが出回っている」、関与疑われたカゴメやカルビー「デマ」と否定 - 弁護士ドットコム]]></title>
+        <id>https://www.bengo4.com/c_23/n_13447/</id>
+        <link href="https://www.bengo4.com/c_23/n_13447/"/>
+        <updated>2021-08-20T10:28:43.000Z</updated>
+        <summary type="html"><![CDATA[ワクチン入りトマト流通プロジェクト、ワクチン入りのトマトが出来たとの情報——。 そんな真偽不明の情報を紹介する画像や記事が、インターネット上で拡散している。この「計画」にかかわる企業として、カゴメやカルビーなど、実在する15の大手企業の名前も紹介されている。 そのため、いわゆる「反ワクチン」の人たちな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ後遺症は「体内で目覚めた別のウイルスが原因」と示される - ナゾロジー]]></title>
+        <id>https://nazology.net/archives/95025</id>
+        <link href="https://nazology.net/archives/95025"/>
+        <updated>2021-08-20T10:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Credit:Canva . ナゾロジー編集部 全ての画像を見る コロナ禍において人類は、2種類のウイルスと戦っていました。 最近、World Organizationの研究者たちにより『Pathogens』に掲載された論文によれば、新型コロナウイルスによる長引く後遺症が「EBウイルス」と呼ばれる、既に体内にある別のウイルスの再活性化によって...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mouseover 中に表示される DOM のデバッグ | blog.jxck.io]]></title>
+        <id>https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html</id>
+        <link href="https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html"/>
+        <updated>2021-08-20T10:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Intro 先日、後輩が「mouseover 中にしか表示されない DOM のデバッグ」に手こずっていたのを見て、たまには小ネタもということで、いくつかのテクニックを紹介する。 実際には、発生しているイベントを制御するというテクニックなので、応用すると色々使えるだろう。 mouseover tooltip 対象として、 Github のユーザア...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折坂悠太｜OrisakaYuta on Twitter: "今回、フジロック出演を辞退します。 直前の報告となってしまい、申し訳ありません。 https://t.co/rLLbaQbJpy"]]></title>
+        <id>https://twitter.com/madon36/status/1428643020807630853</id>
+        <link href="https://twitter.com/madon36/status/1428643020807630853"/>
+        <updated>2021-08-20T09:37:39.000Z</updated>
+        <summary type="html"><![CDATA[今回、フジロック出演を辞退します。 直前の報告となってしまい、申し訳ありません。 https://t.co/rLLbaQbJpy]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フジロック密すぎるｗｗｗ]]></title>
+        <id>https://anond.hatelabo.jp/20210820183224</id>
+        <link href="https://anond.hatelabo.jp/20210820183224"/>
+        <updated>2021-08-20T09:33:10.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/_mayanon/status/1428559206852947969?s=20 これ酷すぎだろ。 完全にクラスター製造機かつ、スプレッダー製造機じゃん。 無観客バブル方式で関係者隔離されてた五輪の危険度と、このクラスター製造機の危険度じゃ比較にもならないｗ フジロックとか殺意が溢れているレベルだわｗ こいつら全員ワクチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫画「推しの子」に登場する"4万程度の寿司"があんまり4万程度の寿司に見えなくて物議を醸す - Togetter]]></title>
+        <id>https://togetter.com/li/1762518</id>
+        <link href="https://togetter.com/li/1762518"/>
+        <updated>2021-08-20T09:12:30.000Z</updated>
+        <summary type="html"><![CDATA[テラヤマアニ @kowagari 今読んでるめっちゃオモロいマンガなんだけど、「こんな4万程度の鮨」は4貫いっぺんに供されることは絶対ないんだよなあ……。惜しい。 pic.twitter.com/N9xpaVEhMI 2021-08-19 19:40:55]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BCP想定を上回ったニップンへのサイバー攻撃についてまとめてみた - piyolog]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2021/08/20/180000</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2021/08/20/180000"/>
+        <updated>2021-08-20T09:03:44.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月9日、ニップンは社内でウイルス感染に起因したシステム障害が発生したと公表。8月16日時点で完全復旧に至っておらず、早期復旧が困難だとして第1四半期の決算報告を延期する対応がとられました。ここでは関連する情報をまとめます。 専門家が「例がない」と評価した攻撃 ニップンビジネスシステムが運用、管理...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内閣官房職員、入札見積もり他社へ漏洩　オリパラアプリ：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8N5DVDP8NULFA01M.html</id>
+        <link href="https://www.asahi.com/articles/ASP8N5DVDP8NULFA01M.html"/>
+        <updated>2021-08-20T08:03:47.000Z</updated>
+        <summary type="html"><![CDATA[内閣官房IT総合戦略室は20日、東京五輪・パラリンピック向けアプリ（通称オリパラアプリ）の発注プロセスを調べてきた弁護士による調査チームの報告書を公表した。IT室の幹部職員らが、他社の見積もり内容を別の会社側に漏らして見積もりを出すよう強く求めるなど、不適切な対応をしていたことがわかった。平井卓也デジ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack CMS: The Past, The Present and The Future]]></title>
+        <id>https://smashingmagazine.com/2021/08/history-future-jamstack-cms/</id>
+        <link href="https://smashingmagazine.com/2021/08/history-future-jamstack-cms/"/>
+        <updated>2021-08-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mike Neumegen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子書籍の利用サービス、前年トップの「Kindleストア」を「LINEマンガ」が抜いて1位に【インプレス総研調べ】 | Web担当者Forum]]></title>
+        <id>https://webtan.impress.co.jp/n/2021/08/20/41395</id>
+        <link href="https://webtan.impress.co.jp/n/2021/08/20/41395"/>
+        <updated>2021-08-20T07:40:20.000Z</updated>
+        <summary type="html"><![CDATA[インプレス総合研究所は、新産業調査レポート「電子書籍ビジネス調査報告書2021」を発表した。2020年度の電子書籍の市場規模、マンガアプリの広告市場規模、事業者の動向、ユーザーの利用状況などを調査し、業界構造・ビジネス構造を分析した内容だ。本記事ではいくつかのトピックを抜粋して紹介する。 なお電子書籍につ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレワークやってるカスども、マジで仕事舐めてんだろ]]></title>
+        <id>https://anond.hatelabo.jp/20210820160050</id>
+        <link href="https://anond.hatelabo.jp/20210820160050"/>
+        <updated>2021-08-20T07:29:30.000Z</updated>
+        <summary type="html"><![CDATA[テレワークやってる奴らとかマジで仕事舐めてんだろ 俺なんてくっさいゴミ回収の仕事して 年収たった200万円台やぞ ゴミの回収は、無かったらお前らだけじゃなく お前以外の皆全員が困るが、お前らがやってるテレワークなんて なくてもお前らやお前の身内以外誰も困らんわボケ そもそもテレワークなんてただのお遊びやん...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学術会議 任命拒否の理由不開示 研究者6人が不服審査請求 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210820/k10013213861000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210820/k10013213861000.html"/>
+        <updated>2021-08-20T06:16:54.000Z</updated>
+        <summary type="html"><![CDATA[日本学術会議の会員人事をめぐり菅総理大臣から任命されなかった6人の研究者が、任命拒否の理由を明らかにするために行った情報開示の請求が認められなかったのは違法だとして、国の処分の取り消しを求める不服審査請求を行いました。 不服審査請求を行ったのは日本学術会議の会員に任命されなかった6人の大学教授で、内...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファーストガンダムを視聴してるのだが、割と感動している]]></title>
+        <id>https://anond.hatelabo.jp/20210404105223</id>
+        <link href="https://anond.hatelabo.jp/20210404105223"/>
+        <updated>2021-08-20T05:12:41.000Z</updated>
+        <summary type="html"><![CDATA[エヴァの完結を見届けてから初めてファーストガンダムに手を出すようなニワカは今のところ少数派だろうけど、こりゃ確かに名作だわ。 ガンダムはXから入って、∀、Seed、Gガン、鉄血と見てきたが、ファーストが一番いいな。 ロボットは別にリアルじゃないけど、運用や作戦行動の推移や、フォーカスを当てる場所がかなり良...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアエンジニアとしての姿勢と心構え / Software Engineer's Survival Guide - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/recruitengineers/software-engineers-survival-guide</id>
+        <link href="https://speakerdeck.com/recruitengineers/software-engineers-survival-guide"/>
+        <updated>2021-08-20T03:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Transcript ιϑτ΢ΣΞ� ΤϯδχΞͱͯ͠ͷ� ࢟੎ͱ৺ߏ͑ ࿨ా�୎ਓ� !U@XBEB "QS��� ������!�ϦΫϧʔτ U�XBEB� U@XBEB� UXBEB ࿨ా୎ਓ खֻ͚ͨຊͨͪ wେֶࡏֶத͔ΒઃܭͱϓϩάϥϛϯάͷΞϧόΠτ Λ࢝ΊΔ� wଔۀޙϓϩάϥϚͱͯ͠ͷΩϟϦΞΛ։࢝� wిࢠ੓෎ͷαϒϓϩδΣΫτ ਺ઍਓن໛ ͰϦʔυ ϓϩάϥϚ� w91�ͷίʔνͱͯ͠���ਓͷΞδϟΠϧνʔϜʹࢀՃ� wߨԋɺࣥචɺ�044�׆ಈΛ࢝ΊΔ� wݱࡏ͸ٕज़ސ໰ۀΛߦ͍ͬͯΔ ΩϟϦΞతͳ΋ͷ None None ֶͼଓ͚Δ࢟੎ l͋ͳͨͷ� ஌ࣝϙʔτϑΥϦΦ ʹରͯ͠ఆظతͳ౤ ࢿΛߦ͏͜ͱz ٕज़ΛֶͿͷͰ ͸ͳ͘ɺٕज़ͷ ֶ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フィクションまで正しい人間が勝つのが息苦しい]]></title>
+        <id>https://anond.hatelabo.jp/20210820123355</id>
+        <link href="https://anond.hatelabo.jp/20210820123355"/>
+        <updated>2021-08-20T03:35:50.000Z</updated>
+        <summary type="html"><![CDATA[性根が腐ってたら幸せになっちゃいけないの？ 自分は正しくないサイドの人間だ。 ドラマや漫画だと、確実に断罪されるサイド。 つっても巨悪を為せるわけじゃなく、ヤンキーや半グレのようなアウトサイダーですらない。 ただのクズである。無能な小悪党というところだろうか。 クズといっても、カイジみたいに土壇場で輝...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning]]></title>
+        <id>611d56d3e884de07521810f9</id>
+        <link href="https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/"/>
+        <updated>2021-08-20T03:21:20.000Z</updated>
+        <summary type="html"><![CDATA[At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社リクルート　エンジニアコース新人研修の内容を公開します！（2021年度版） | リクルート　メンバーズブログ]]></title>
+        <id>https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/</id>
+        <link href="https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/"/>
+        <updated>2021-08-20T03:16:02.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ Webフロントエンドエンジニアの眞野 隼輔です。 毎年大きな反響を頂いている、エンジニアコースの新人研修の内容を紹介させていただきます。 研修の概要 リクルートでは、エンジニアコースでスペシャリスト採用された新卒のエンジニアを対象に、現場で培われた「本当に必要な生きた知識・技術」を取り入れ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みずほ銀行でシステム障害、窓口の取引できず: 日本経済新聞]]></title>
         <id>https://www.nikkei.com/article/DGXZQOUB200S20Q1A820C2000000/</id>
@@ -10180,431 +10555,6 @@ The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tric
         <link href="https://note.com/cchan1110/n/n07a45201dfaa"/>
         <updated>2021-07-22T12:53:07.000Z</updated>
         <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開会式のプログラム発売中止　KADOKAWA ｜ 共同通信]]></title>
-        <id>https://nordot.app/790922001612144640</id>
-        <link href="https://nordot.app/790922001612144640"/>
-        <updated>2021-07-22T12:42:53.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック開閉会式の演出担当、小林賢太郎氏（48）が解任されたことを受け、KADOKAWAは22日、開会式の公式プログラムの発売中止を決めた。小林氏のインタビュー記事が掲載されていることが理由。24日に発売予定だった。 KADOKAWAによると、この本は「東京2020オリンピック開会式　公式プログラム」。発行...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4連休、にぎわう行楽地「やっと旅行」　東京脱出の動き [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7Q6RL5P7QUTIL03T.html</id>
-        <link href="https://www.asahi.com/articles/ASP7Q6RL5P7QUTIL03T.html"/>
-        <updated>2021-07-22T12:41:34.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪の開会式にあわせて実現した4連休が22日始まった。本来なら五輪モードにシフトするはずが、コロナ禍で外出自粛が呼びかけられ、競技も原則無観客に。都県境をまたぐ移動自粛が呼びかけられる中、五輪と関係なく連休を楽しもうという人々で行楽地はにぎわい、東京から「脱出」しようという動きもみられた。 東京...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「寄せ集め」の五輪組織委　司令塔不在でガバナンス働かず | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210722/k00/00m/040/258000c</id>
-        <link href="https://mainichi.jp/articles/20210722/k00/00m/040/258000c"/>
-        <updated>2021-07-22T12:39:13.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピックは開幕前日の22日になっても騒動で揺れた。開会式の演出担当で元お笑い芸人の小林賢太郎氏（48）が過去にユダヤ人大量虐殺（ホロコースト）をコントの題材にしていたとして解任された。大会関係者は「メガトン級だ。五輪が潰れかねない」と頭を抱えた。 小林氏が、ホロコーストをコントの題材にしていた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小林氏の発言をユダヤ人権団体に“通報”…防衛副大臣の行動に疑問続出（女性自身） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/d420abec20371fde732c2c78216cfd322f4ac553</id>
-        <link href="https://news.yahoo.co.jp/articles/d420abec20371fde732c2c78216cfd322f4ac553"/>
-        <updated>2021-07-22T12:33:06.000Z</updated>
-        <summary type="html"><![CDATA[中山副大臣の行動に疑問が集まっている／Copyright (C) 2021 Kobunsha Co.， Ltd. All Rights Reserved. 7月22日、東京オリンピック・パラリンピック組織委員会は開閉会式のディレクターを務める元お笑い芸人小林賢太郎氏（48）を解任したと発表。小林氏は、ラーメンズ時代のコントで「ユダヤ人大量虐殺ごっこ」と発言し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
-        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
-        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
-        <updated>2021-07-22T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海苔（のり）を消化できるのは日本人だけという論文を読んでみた｜柞刈湯葉 Yuba Isukari｜note]]></title>
-        <id>https://note.com/yubais/n/n50c8297ec3fc</id>
-        <link href="https://note.com/yubais/n/n50c8297ec3fc"/>
-        <updated>2021-07-22T11:23:11.000Z</updated>
-        <summary type="html"><![CDATA[昆布、ワカメ、そして海苔といった食材は和食において不可欠なものだ。古くは柿本人麻呂が海苔についての和歌を読んでおり、その利用は先史時代に遡るという。だが海藻を食べる文化は西洋人から見ると奇異に映ったようで、民族ジョークにもなっている。 レストランであるフランス人が言った。 「日本は物が豊かだと聞い...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「批判をただ受け入れる」という選択肢が、もう残っていない]]></title>
-        <id>https://anond.hatelabo.jp/20210722191747</id>
-        <link href="https://anond.hatelabo.jp/20210722191747"/>
-        <updated>2021-07-22T11:05:51.000Z</updated>
-        <summary type="html"><![CDATA[五輪開会式と、『ルックバック』についてをむりやり結び付けた話です 「サイモン・ウィーゼンタール・センター」（SWC）の副代表のコメントが朝日新聞に出ており、とても驚いた。 東京五輪で開閉会式のディレクターを務める小林賢太郎氏（48）が解任されたことを受け、米国の有力ユダヤ人人権団体「サイモン・ウィーゼン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《どうか本校をお助けください》京都のミッション系伝統校「平安女学院」からSOS　校長が“学院出禁”の異常事態発生（文春オンライン） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/c772a33635943c89bdd9936fde220b6ef6a93502</id>
-        <link href="https://news.yahoo.co.jp/articles/c772a33635943c89bdd9936fde220b6ef6a93502"/>
-        <updated>2021-07-22T10:55:33.000Z</updated>
-        <summary type="html"><![CDATA[《どうか本校をお助けください。現在、理事長の理不尽な命令で中学校・高等学校の校長が校内への立ち入りを禁じられており、自宅待機処分となっております。理事長に異論を唱えた副校長、教頭ら4人も役職を解任されました。これは理事長の職権乱用です》 【画像】理事長の“問題発言”を糾弾する「質問状」 7月上旬、差し...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最初は野村萬斎さんだった…解散・辞任相次ぐ演出チーム - 東京オリンピック：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7Q5K4DP7QUTIL02V.html</id>
-        <link href="https://www.asahi.com/articles/ASP7Q5K4DP7QUTIL02V.html"/>
-        <updated>2021-07-22T10:28:03.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック（五輪）・パラリンピックの開閉会式の演出チームをめぐっては、トラブルが続いてきた。 2018年7月、開閉会式演出の総合統括に就任が決まったのは狂言師の野村萬斎氏だった。「機知に富んだ式典にするため尽力していく」と意欲を口にしていたが、新型コロナウイルスの影響で大会の1年延期が決定。野村氏...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立体的な表現で見やすいネットワーク図がブラウザ上で作成できる「Isoflow」 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210722-isoflow/</id>
-        <link href="https://gigazine.net/news/20210722-isoflow/"/>
-        <updated>2021-07-22T09:35:49.000Z</updated>
-        <summary type="html"><![CDATA[ネットワークの構成を視覚的に把握しやすいアイソメトリック図で表現でき、作成した図面を共有して相手に見せることができるオンラインサービスが「Isoflow」です。 Isoflow https://isoflow.io/ まずはお試しですぐに図面の作成画面に行くことができます。「CREATE A DIAGRAM」をクリック。 表示されたキャンバス上の好...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蕾一/原稿やる on Twitter: "熱が38度超えたからヤバいと思って横浜市のコロナ相談窓口に連絡したら、自力で病院探してくださいって言われたんだけど…え、もしこれで検査しないで放置して周りに知らせないでいたら感染知らないままで広がりませんか？って言ったら、もうコロ… https://t.co/s6VDQ9sYYl"]]></title>
-        <id>https://twitter.com/GokuakuR/status/1418119399148449792</id>
-        <link href="https://twitter.com/GokuakuR/status/1418119399148449792"/>
-        <updated>2021-07-22T09:34:25.000Z</updated>
-        <summary type="html"><![CDATA[熱が38度超えたからヤバいと思って横浜市のコロナ相談窓口に連絡したら、自力で病院探してくださいって言われたんだけど…え、もしこれで検査しないで放置して周りに知らせないでいたら感染知らないままで広がりませんか？って言ったら、もうコロ… https://t.co/s6VDQ9sYYl]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 【東京五輪】福島の子供たちが提供したアサガオ、会場から遠く離れた場所に放置され枯れる - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009386.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009386.html"/>
-        <updated>2021-07-22T08:07:59.000Z</updated>
-        <summary type="html"><![CDATA[【東京五輪】福島の子供たちが提供したアサガオ、会場から遠く離れた場所に放置され枯れる 1 名前：ボラえもん ★：2021/07/22(木) 15:18:21.24 ID:q+6pNOn59 牧内昇平(記者・ライター)@makiuchi_shohei 午前11時。福島の、こどもたちが五輪応援のために提供したのであろうアサガオが、スタジアムからかなり離れた場所に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小林賢太郎氏の解任と、わたしの責任｜岸田 奈美]]></title>
-        <id>https://note.kishidanami.com/n/nd7583da9b550</id>
-        <link href="https://note.kishidanami.com/n/nd7583da9b550"/>
-        <updated>2021-07-22T07:29:47.000Z</updated>
-        <summary type="html"><![CDATA[※身近な読者さんに聞いてほしいだけなので、気が済んだらマガジンに入れて、そのあと消します。ラーメンズが好きだ。 小林賢太郎氏が好きだ。 父を亡くし、友人を失くし、誰とも笑えない鬱屈とした子どもであったわたしに、笑いという光をくれたのが彼らのコントだった。絶妙にわかりづらく、複雑に絡みあう、壮大な世界...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モデルナ2回目接種の副反応の記録 · GitHub]]></title>
-        <id>https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a</id>
-        <link href="https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a"/>
-        <updated>2021-07-22T04:33:53.000Z</updated>
-        <summary type="html"><![CDATA[sinukato-omotta-yo.md モデルナ2回目接種の副反応の記録 勢いで書いたこともあり、語尾が断定口調で強くなってしまっていますが、あくまでも個人の体験の記録ということを加味して読んでいただければと思います。 全員が全員このような症状が出ることはないと思いますが、もし不安を覚えているのでしたらここに書いたこ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】東京都、都市ボランティア3万人放置　「新たな活動」連絡せず　五輪開幕に間に合うか「分からない」と準備局：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/118368</id>
-        <link href="https://www.tokyo-np.co.jp/article/118368"/>
-        <updated>2021-07-21T22:49:18.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪の無観客開催で、街頭での道案内など従来の役割がなくなった約３万人の都市ボランティアに対し、都が示すとしていた「新たな活動」について、大会開幕２日前になっても連絡が行われていないことが分かった。都オリンピック・パラリンピック準備局は「できるだけ早くお伝えしたい」としているものの、五輪の開幕...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)]]></title>
-        <id>60f55f3e66c61b07d458ee8c</id>
-        <link href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/"/>
-        <updated>2021-07-21T22:39:42.000Z</updated>
-        <summary type="html"><![CDATA[The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use EditorConfig to Standardize Code Styles]]></title>
-        <id>60f5ecb966c61b07d458f479</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/"/>
-        <updated>2021-07-21T21:28:55.000Z</updated>
-        <summary type="html"><![CDATA[You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おかげさまでPC Watchは25周年を迎えました - PC Watch]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/news/1338703.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/news/1338703.html"/>
-        <updated>2021-07-21T21:16:50.000Z</updated>
-        <summary type="html"><![CDATA[PC Watch編集長の若杉です。おかげさまでPC Watchは2021年7月をもって25周年を迎えることとなりました。これまでPC Watchを支えてくださった読者の方、メーカーの方、ライターさん、その他大勢の関係者の皆様にこの場を借りて厚く御礼申し上げます。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet Another Mobile Context Menu With No Indication it Can Scroll]]></title>
-        <id>https://css-tricks.com/?p=344950</id>
-        <link href="https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/"/>
-        <updated>2021-07-21T21:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …
-The post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript proposal: JSON modules]]></title>
-        <id>https://css-tricks.com/?p=344948</id>
-        <link href="https://2ality.com/2021/06/json-modules.html"/>
-        <updated>2021-07-21T21:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. 
-import configData from './config-data.json' assert {type: 
-…
-The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is about:blank? Chrome Blank Homepage Guide]]></title>
-        <id>60f81c021d2b080797b80d44</id>
-        <link href="https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/"/>
-        <updated>2021-07-21T21:02:54.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヘイト声明のDHCが「マル秘」謝罪文　提出先には非公開を要求 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210721/k00/00m/040/334000c</id>
-        <link href="https://mainichi.jp/articles/20210721/k00/00m/040/334000c"/>
-        <updated>2021-07-21T20:41:37.000Z</updated>
-        <summary type="html"><![CDATA[化粧品会社ディーエイチシー（DHC）がホームページ（HP）に在日コリアンを差別する文章を掲載した問題で、DHCが非を認めて謝罪する文書を、協定を結ぶ自治体に水面下で提出していたことが判明した。DHCは公式の謝罪や説明を避けており、謝罪文を渡した自治体にも文書の非公開を要求している。情報公開請求で得られた資料...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ユダヤ人大量惨殺ごっこ」五輪開会式ディレクターの小林賢太郎氏、芸人時代にホロコーストを笑いのネタに（高橋浩祐） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/takahashikosuke/20210722-00249199</id>
-        <link href="https://news.yahoo.co.jp/byline/takahashikosuke/20210722-00249199"/>
-        <updated>2021-07-21T19:47:55.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪の開会まであと1日と迫る中、新たな問題が起きている。東京五輪開会式・閉会式のショーディレクターを務める小林賢太郎氏（48）がお笑いコンビ「ラーメンズ」時代に、ナチス・ドイツによるホロコースト（ユダヤ人大虐殺）をお笑いコントのネタにしていたことが分かった。動画がSNSなどでも拡散され、ネット上が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWC Condemns Anti-Semitic Remarks by Director of Opening Ceremony of Tokyo Olympics]]></title>
-        <id>https://www.wiesenthal.com/about/news/swc-condemns-anti-semitic-1.html</id>
-        <link href="https://www.wiesenthal.com/about/news/swc-condemns-anti-semitic-1.html"/>
-        <updated>2021-07-21T19:22:20.000Z</updated>
-        <summary type="html"><![CDATA[www.wiesenthal.com > About > News > SWC Condemns Anti-Semitic Remarks by Director of Opening Ceremony of Tokyo Olympics SWC Condemns Anti-Semitic Remarks by Director of Opening Ceremony of Tokyo Olympics July 21, 2021 The Simon Wiesenthal Center condemns past anti-Semitic jokes as well as reporte...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オタクに宿を任せたらツインとダブルの区別がつかなかったらしくダブルの部屋に泊まることになった話…「なにもおきないはずがない」の反応も - Togetter]]></title>
-        <id>https://togetter.com/li/1748010</id>
-        <link href="https://togetter.com/li/1748010"/>
-        <updated>2021-07-21T18:32:02.000Z</updated>
-        <summary type="html"><![CDATA[ゆるます @yrms_trinity 星咲高校出身倉野川市在住のDJ的な何か、VJも少しずつ。オファーお待ちしてます。(最近東京に移動しました) twpf.jp/yrms_trinity]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[それでも俺は人々の物語愛を信じている]]></title>
-        <id>https://anond.hatelabo.jp/20210722014640</id>
-        <link href="https://anond.hatelabo.jp/20210722014640"/>
-        <updated>2021-07-21T16:56:03.000Z</updated>
-        <summary type="html"><![CDATA[今、はてなで小山田批判の次くらいに熱い、ルックバック統合失調症患者問題。 俺は基本的にあの批判に関しては否定的に見ている。 ただ、一方で、漫画の描写が統合失調症患者の偏見を強めるという意見に関しては完全に否定できるモノではないとも思っている。 統合失調症患者の描写に限らず、また「差別を助長する」と言...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラーメンズ　できるかな]]></title>
-        <id>https://www.nicovideo.jp/watch/sm3545193</id>
-        <link href="https://www.nicovideo.jp/watch/sm3545193"/>
-        <updated>2021-07-21T16:39:01.000Z</updated>
-        <summary type="html"><![CDATA[アップ動画一覧→mylist/6980356]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[総務部の女『異世界転生したのに、チートスキルなしかぁ…私が出来ることないよ』『資格も簿記１級しかないし…』 - Togetter]]></title>
-        <id>https://togetter.com/li/1748076</id>
-        <link href="https://togetter.com/li/1748076"/>
-        <updated>2021-07-21T16:38:50.000Z</updated>
-        <summary type="html"><![CDATA[吉村英崇＠アマゾン、日程指定できるﾏﾝ　_(:3 」∠ )_ @Count_Down_000 『異世界転生したのに、スキル貸与なしかぁ…私が出来ることないよ』 『商業学校でやっと簿記1級とって、そこそこの会社にはいって、総務部の仕事を10年しただけの私に出来ることなんて…』 （数ヶ月後） 「連合軍の兵站管理を改善したすごい奴がいる...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏野剛氏　子供の行事と五輪の比較論をバッサリ「ピアノの発表会なんてどうでもいいでしょ」（東スポWeb） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/ddfdb8df2cac3843da04d625096cbed8295371a3</id>
-        <link href="https://news.yahoo.co.jp/articles/ddfdb8df2cac3843da04d625096cbed8295371a3"/>
-        <updated>2021-07-21T16:21:27.000Z</updated>
-        <summary type="html"><![CDATA[実業家で慶應義塾大学特別招聘教授の夏野剛氏が２１日、ニュース番組「ＡＢＥＭＡ　Ｐｒｉｍｅ」（ＡＢＥＭＡ　ＴＶ）に生出演。東京五輪の無観客開催に持論を展開した。 【写真】バッハ会長宿泊ホテル前でもみ合う警官隊とデモ隊 夏野氏は、共演者の「子どもの運動会とか発表会が無観客で行われてるのに、なんで五輪は...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
-        <id>60f83b421d2b080797b80f10</id>
-        <link href="https://www.freecodecamp.org/news/low-code-tutorial/"/>
-        <updated>2021-07-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Context for Beginners – The Complete Guide (2021)]]></title>
-        <id>60f7eeda1d2b080797b80b31</id>
-        <link href="https://www.freecodecamp.org/news/react-context-for-beginners/"/>
-        <updated>2021-07-21T15:39:28.000Z</updated>
-        <summary type="html"><![CDATA[React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 Freelance Developer Portfolios to Inspire You]]></title>
-        <id>60f5c9b866c61b07d458f2af</id>
-        <link href="https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/"/>
-        <updated>2021-07-21T15:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Article by @study_web_dev]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
-        <id>60f66b6f66c61b07d458f93c</id>
-        <link href="https://www.freecodecamp.org/news/css-background-image-with-html-example-code/"/>
-        <updated>2021-07-21T15:20:18.000Z</updated>
-        <summary type="html"><![CDATA[What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[その後のサキュバスさん - 猗笠怜司 | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496408856138</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496408856138"/>
-        <updated>2021-07-21T15:08:49.000Z</updated>
-        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実話BUNKAタブー編集部 on Twitter: "五輪開会式ディレクターのラーメンズ・小林賢太郎さんが、「ユダヤ人大量虐殺ごっこをやろう」とホロコーストをネタにしてる動画です。 https://t.co/dkDSArte0r https://t.co/KJx02obaC7"]]></title>
-        <id>https://twitter.com/BUNKA_taboo/status/1417843244013023237</id>
-        <link href="https://twitter.com/BUNKA_taboo/status/1417843244013023237"/>
-        <updated>2021-07-21T15:02:46.000Z</updated>
-        <summary type="html"><![CDATA[五輪開会式ディレクターのラーメンズ・小林賢太郎さんが、「ユダヤ人大量虐殺ごっこをやろう」とホロコーストをネタにしてる動画です。 https://t.co/dkDSArte0r https://t.co/KJx02obaC7]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はてブの人気のコメント]]></title>
-        <id>https://anond.hatelabo.jp/20210721231208</id>
-        <link href="https://anond.hatelabo.jp/20210721231208"/>
-        <updated>2021-07-21T14:46:05.000Z</updated>
-        <summary type="html"><![CDATA[基本新着しか見てなかったので、人気のコメントの基準変更でこんなに大騒ぎになってる事に驚きを禁じ得ない。 ブックマーカーって人気のコメント入りする事に命をかけてたりしてたのか。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
-        <id>https://css-tricks.com/?p=344337</id>
-        <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
-        <updated>2021-07-21T14:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …
-The post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mark Noonan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン接種後に死亡 “接種と因果関係あると結論 事例なし” | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210721/k10013153201000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210721/k10013153201000.html"/>
-        <updated>2021-07-21T14:20:24.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種を受けたあとに死亡が確認された人について、厚生労働省は接種と因果関係があると結論づけられた事例はないとする見解を示しました。 これは厚生労働省が21日夜開いた専門家部会で報告しました。 それによりますと、今月11日までにファイザーかモデルナのワクチンの接種を受けた人は合...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nath-AKI-END（アケミ） on Twitter: "もう無茶苦茶やん‼️ 溝口「濃厚接触者と対戦拒否した場合、拒否した側が不戦敗になる」 苦笑いしてんじゃねーよ、溝口 松原さんの「えっ！」という絶句に同じ思い。 #いまからでも五輪中止を #報道1930 https://t.co/xWD2v2hPgY"]]></title>
-        <id>https://twitter.com/nasu_otr/status/1417809722728620039</id>
-        <link href="https://twitter.com/nasu_otr/status/1417809722728620039"/>
-        <updated>2021-07-21T13:42:41.000Z</updated>
-        <summary type="html"><![CDATA[もう無茶苦茶やん‼️ 溝口「濃厚接触者と対戦拒否した場合、拒否した側が不戦敗になる」 苦笑いしてんじゃねーよ、溝口 松原さんの「えっ！」という絶句に同じ思い。 #いまからでも五輪中止を #報道1930 https://t.co/xWD2v2hPgY]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<ユダヤ人大量惨殺ごっこ> 五輪開会式演出・小林賢太郎に浮上した「ホロコーストいじり」の過去 | GEINOU]]></title>
-        <id>https://re-geinou.com/archives/5343</id>
-        <link href="https://re-geinou.com/archives/5343"/>
-        <updated>2021-07-21T13:41:42.000Z</updated>
-        <summary type="html"><![CDATA[いよいよ7月23日に開会式が行われる東京オリンピック。 開幕直前の同19日、開会式と閉会式の音楽を担当する予定だったミュージシャン・小山田圭吾が過去の「いじめ告白記事問題」により作曲メンバーを辞任する事態に。 さらには同21日、今大会の文化プログラム「東京2020　NIPPONフェスティバル」の「MAZEKOZEアイランド...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
-        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
-        <updated>2021-07-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首相、記者団の取材にいら立ち　立て続け質問、注意促す ｜ 共同通信]]></title>
-        <id>https://nordot.app/790560839146061824</id>
-        <link href="https://nordot.app/790560839146061824"/>
-        <updated>2021-07-21T12:51:01.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は21日、官邸で記者団の取材に応じた際、社名を名乗らず立て続けに質問しようとした記者を「ルールを守ってください」と遮り、後方で控えていた小野日子内閣広報官らに「はっきり言ってください」と注意を促すなど、いら立ちをあらわにした。 首相が就任して以降、質問のたびに社名と氏名を名乗るのが通例とな...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
