@@ -2,10 +2,396 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawgh.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T00:44:54.161Z</updated>
+    <updated>2021-08-26T00:42:32.465Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://kawgh.github.io/osmos/index.html"/>
     <link rel="self" href="https://kawgh.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
+        <id>https://css-tricks.com/?p=350311</id>
+        <link href="https://css-tricks.com/one-way-to-convert-code-indentation/"/>
+        <updated>2021-08-25T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[A question:
+If you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?
+Matt Stauffer, Twitter
+
+I wrote about doing this in Sublime Text a …
+The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ: 地方に感染急拡大　43都道府県、新規感染者ステージ4に: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/"/>
+        <updated>2021-08-25T21:56:48.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルス感染拡大の「第5波」が全国に波及している。インド型（デルタ型）変異ウイルスが地方に広がり、43都道府県で新規感染者数が国基準で最も深刻な「ス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西浦博教授が考える「ワクチン接種が進む日本」でこれから先に見込まれる“展開”（西浦 博） | 現代ビジネス | 講談社（1/5）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/86584</id>
+        <link href="https://gendai.ismedia.jp/articles/-/86584"/>
+        <updated>2021-08-25T21:49:17.000Z</updated>
+        <summary type="html"><![CDATA[今後の未来像は 予防接種という行為は、接種者自身はもちろんのこと、それ以外の方の感染機会を減らすことに繋がる。そのため、そのような間接的な防御が人口内で積み重なり、流行自体を防ぐ効果が得られたものを集団免疫効果と呼ぶ。そして、流行排除のための閾値について、従来株の場合、予防接種率が60％超程度ではな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Interview Questions for Beginners]]></title>
+        <id>612114773bccf807612a5084</id>
+        <link href="https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/"/>
+        <updated>2021-08-25T21:39:37.000Z</updated>
+        <summary type="html"><![CDATA[In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首相「圧倒的にうまくやってる」　目を背けた厳しい現実：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html</id>
+        <link href="https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html"/>
+        <updated>2021-08-25T21:10:58.000Z</updated>
+        <summary type="html"><![CDATA[4度目となる緊急事態宣言下では、新型コロナウイルスの感染状況が改善する兆しが見えなかった。7月下旬、政府は宣言の対象を拡大、延長する検討に入った。政府に助言する専門家たちには「リーダーの言葉が国民に届いていない」と、菅義偉首相の発信に対する不満が広がっていた。 「国民の気持ちに寄り添うようなメッセー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルナのワクチン 一部に異物混入 約160万回分使用見合わせ | 新型コロナ ワクチン（日本国内） | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210826/k10013223821000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210826/k10013223821000.html"/>
+        <updated>2021-08-25T20:21:44.000Z</updated>
+        <summary type="html"><![CDATA[モデルナの新型コロナウイルスワクチンの一部に異物が混入しているのが相次いで見つかり、厚生労働省は同じ工程で製造されたワクチンの使用を見合わせることを決めました。対象となるワクチンは合わせておよそ160万回分で、これまでのところ健康被害は報告されていないということです。 厚生労働省などによりますと、今...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a JSON File? Example JavaScript Code]]></title>
+        <id>612633433bccf807612a7bf4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/"/>
+        <updated>2021-08-25T20:04:19.000Z</updated>
+        <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ: モデルナワクチン、160万回分接種停止　異物混入の報告: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/"/>
+        <updated>2021-08-25T18:29:15.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 厚生労働省は26日、米モデルナ製の新型コロナウイルスワクチンについて異物の混入が見つかったとして、約160万回分の接種を見合わせると発表した。一部はすでに接種さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファイザー“抗体量”３か月後４分の１に減（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/5b4b207dc3dca45c3f6d53a0d0afc0d4171335cb</id>
+        <link href="https://news.yahoo.co.jp/articles/5b4b207dc3dca45c3f6d53a0d0afc0d4171335cb"/>
+        <updated>2021-08-25T17:45:10.000Z</updated>
+        <summary type="html"><![CDATA[ファイザー製の新型コロナウイルスのワクチン接種後にできる、ウイルスに対抗するための抗体の量は、１回目接種の３か月後には、４分の１に減ったことがわかりました。それでも、自然感染で得られる抗体よりは多い量だということです。 藤田医科大学は、ファイザー製のワクチンを接種した職員２０９人について、新型コロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「誰もが文字が書いてあると反射的に読むわけではない」ってのは､文字があると全部読む族の人には盲点だったりする - Togetter]]></title>
+        <id>https://togetter.com/li/1765035</id>
+        <link href="https://togetter.com/li/1765035"/>
+        <updated>2021-08-25T16:42:31.000Z</updated>
+        <summary type="html"><![CDATA[ねえね　猫の座布団 @Doragonsyoten 「誰もが文字が書いてあると反射的に読むわけではない」ってのは文字があると全部読む族の人には盲点だったりするんよな。家庭内に対面口語コミュニケーションしかなかった人達ってのはわりと多いんよ。そして親が文字読まないと子供もそれを読む習慣はつかないらしいんよね。 2021-0...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Raspberry Pi? Specs and Models (2021 Guide)]]></title>
+        <id>611e7d553bccf807612a33ec</id>
+        <link href="https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/"/>
+        <updated>2021-08-25T16:17:20.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is JavaScript? JavaScript Code Explained in Plain English]]></title>
+        <id>61064a8d3306a507d1bfbff9</id>
+        <link href="https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/"/>
+        <updated>2021-08-25T15:44:41.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript was created over 26 years ago and is currently one of the most popular programming languages. But what is JavaScript?  JavaScript is used with HTML and CSS to create dynamic and interactive web pages and mobile applications. We often call it one of the building blocks of web development.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タリバン「日本人は必要 自衛隊は撤退を」　FNNの取材に応じる]]></title>
+        <id>https://www.fnn.jp/articles/-/229731</id>
+        <link href="https://www.fnn.jp/articles/-/229731"/>
+        <updated>2021-08-25T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンの武装勢力タリバンが、「日本人を必要としている」などと協力を呼びかける一方、自衛隊には、早期撤退を求めた。 タリバン・ムジャヒド報道官「われわれは、日本人のアフガニスタンからの退避を望んでいません。しかし、自衛隊は退去してほしい」 タリバンの報道官は、FNNの取材に対し、「われわれは日本...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨]]></title>
+        <id>6063b8f89618b008528a9d7d</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/"/>
+        <updated>2021-08-25T15:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS units EM, REM, VW and VH by working through some practical examples. We'll also see how to make responsive websites with these units.  Let's start. 💖 Table of ContentsWhy learn relative units?What are REM Units?How to make responsive websites with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独身アラフォーwebエンジニアが中古マンションを買ってリノベした]]></title>
+        <id>https://anond.hatelabo.jp/20210825234710</id>
+        <link href="https://anond.hatelabo.jp/20210825234710"/>
+        <updated>2021-08-25T15:02:53.000Z</updated>
+        <summary type="html"><![CDATA[記憶が鮮明なうちに記録しておくのはいいかもしれない、と思ったので書く。 スペック30代後半都内のIT系企業で働くwebエンジニアリモートワーク仕事関係の人間関係は良好（だと思う）友達少ない。恋人3年超いない。インテリアは特に詳しくない。 賃貸派だった理由色んな街に住むのが楽しい。 出身が地方だったこともあり...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首相「明かりは見え始めている」…ワクチンは「デルタ株にも効果」と強調（読売新聞オンライン） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42</id>
+        <link href="https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42"/>
+        <updated>2021-08-25T14:59:12.000Z</updated>
+        <summary type="html"><![CDATA[菅首相は２５日夜、新型コロナウイルス対策として緊急事態宣言の追加発令などを決めたことを受け、首相官邸で記者会見した。首相は「国民の協力をいただきながらこの危機を何としても乗り越えていく」と述べた。そのうえで、１兆４０００億円の予備費の使用を週内に決定することを明らかにした。 【動画】菅首相の似顔絵...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stealing Game Animation Techniques to Engage Users]]></title>
+        <id>https://css-tricks.com/?p=346612</id>
+        <link href="https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/"/>
+        <updated>2021-08-25T14:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …
+The post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Eli Penner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[level=0 から始める PHPStan(Larastan) 導入ガイド - Shin x Blog]]></title>
+        <id>https://blog.shin1x1.com/entry/getting-stated-with-phpstan</id>
+        <link href="https://blog.shin1x1.com/entry/getting-stated-with-phpstan"/>
+        <updated>2021-08-25T13:04:18.000Z</updated>
+        <summary type="html"><![CDATA[PHP にはアプリケーションを実行せずに静的にコード品質をチェックする静的解析ツールがいくつかあります。有名なところでは、PHPStan や Psalm、Phan、PHPMD などがあります。本エントリでは、まだこうした静的解析ツールを導入していないプロジェクト向けに PHPStan 導入の流れをまとめてみました。 3(4) 行まとめ サ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『人工心臓ガチ勢の小学生』による安久工機の工場見学が実現！初日からフルパワーで対応する大人たちがステキ - Togetter]]></title>
+        <id>https://togetter.com/li/1764952</id>
+        <link href="https://togetter.com/li/1764952"/>
+        <updated>2021-08-25T13:02:17.000Z</updated>
+        <summary type="html"><![CDATA[これまでのあらすじ 1、安久工機に工場見学希望の電話が 2、電話主の息子さん（小学生）が人工心臓に興味を持っているとのこと 3、さらに詳しく話を聞くと、少年の知識のガチさに現場パニック 4、安久工機、大喜びで工場見学を受け入れる 5、安久工機、少年の見学を成功させるべく万全の準備に取り組む]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News Up フジロックから考える コロナ禍の“分断” | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html"/>
+        <updated>2021-08-25T12:54:19.000Z</updated>
+        <summary type="html"><![CDATA[国内最大級のロックの祭典「フジロックフェスティバル」 新型コロナの影響で、2年ぶりの開催となりました。 アーティストは、出演するか、取りやめるか。 観客も、現地に行くか、オンライン配信で見るか。 対応は分かれました。 新型コロナの感染が確認されてから1年半。 “分断”を生まないために、何が必要なのでしょう...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江川紹子氏、パラ開会式での片翼飛行機表現「まったく不適切だと思います」（デイリースポーツ） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801</id>
+        <link href="https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801"/>
+        <updated>2021-08-25T11:23:28.000Z</updated>
+        <summary type="html"><![CDATA[ジャーナリストの江川紹子氏が２４日、ツイッターを更新。東京パラリンピック開会式の演出に「障害がある人の無限の可能性を表すのに、片翼の飛行機で喩える、という表現がまったく不適切だと思います」との考えをつぶやいた。 【写真】主人公の小さな飛行機を演じる１３歳の和合由依さん 東京パラリンピック開会式では...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3大イラッとする誤字]]></title>
+        <id>https://anond.hatelabo.jp/20210825132748</id>
+        <link href="https://anond.hatelabo.jp/20210825132748"/>
+        <updated>2021-08-25T11:17:07.000Z</updated>
+        <summary type="html"><![CDATA[ワクチン摂取 永遠と あと1つ何？]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん」→医者「21世紀の日本でこんな病気なる人いないよ！！！！！」 - Togetter]]></title>
+        <id>https://togetter.com/li/1764894</id>
+        <link href="https://togetter.com/li/1764894"/>
+        <updated>2021-08-25T11:14:13.000Z</updated>
+        <summary type="html"><![CDATA[詩秘 恵瑠 / CPL @sh1p1_ele 20歳ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん天才かな？あれっ体がだるくて足に違和感があるぞ」 医者「何やってんのあんた！21世紀の日本でこんな病気なる人いないよ！！！！！」 2021-08-24 09:19:51]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フレンチもイタリアンも敷居が高い]]></title>
+        <id>https://anond.hatelabo.jp/20210825140256</id>
+        <link href="https://anond.hatelabo.jp/20210825140256"/>
+        <updated>2021-08-25T11:11:12.000Z</updated>
+        <summary type="html"><![CDATA[例えば、カレーはルーの箱の裏に書いてある通りに作れば、一応及第点のものが出来る。 その上で、具を小間切れ肉と玉ねぎだけにしてしまえば、包丁使うのは玉ねぎ切るだけで煮込みは省略という、まさに簡単で美味しいレシピとなる。 このうち、特に重要なのが包丁を使う手間で、キッチンシンクが低すぎる状態で料理する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女友達に660馬力の車乗ってるなんて男と思えないと言われた]]></title>
+        <id>https://anond.hatelabo.jp/20210825132034</id>
+        <link href="https://anond.hatelabo.jp/20210825132034"/>
+        <updated>2021-08-25T11:10:39.000Z</updated>
+        <summary type="html"><![CDATA[バイトして車買った。軽自動車だけどカスタムされてあるし車屋さんも「これは軽に見えないよ」って言ってくれてうれしかった。 友達同士でオレの車に乗って海に行こうぜってなって表題の件。 6人全員乗れるかって話になって、カスタムされてあるから大丈夫って言ってるのにグループの中でうるさい女が軽自動車は4人しか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「国会の議論もオンライン化を」尾身会長が提言（テレビ朝日系（ANN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266</id>
+        <link href="https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266"/>
+        <updated>2021-08-25T11:02:02.000Z</updated>
+        <summary type="html"><![CDATA[テレワークを求める政治家に国会こそオンライン化するよう提言です。 政府新型コロナ分科会・尾身会長：「今こういう時期ですから、国会の議論もできる範囲でテレワーク、オンラインですね、それでやるとメッセージになる」 政府が経済界に対してテレワークなどで出勤者を7割削減するように求めているなか、政府の分科会...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“出演者が痛がる様子を笑いにする番組演出” BPOが審議へ | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html"/>
+        <updated>2021-08-25T10:15:56.000Z</updated>
+        <summary type="html"><![CDATA[出演者が痛がる様子を笑いの対象にするようなバラエティー番組の演出について、BPO＝放送倫理・番組向上機構は、青少年に与える影響の重大性を考慮して審議することを決めました。 BPOによりますと出演者に痛がるような行為をしかけ、その様子をみんなで笑うようなバラエティー番組について、視聴者などから「不快に思う...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「登場が少ないけどぜったいに外せない脇役」っていうのある？]]></title>
+        <id>https://anond.hatelabo.jp/20210825190424</id>
+        <link href="https://anond.hatelabo.jp/20210825190424"/>
+        <updated>2021-08-25T10:04:34.000Z</updated>
+        <summary type="html"><![CDATA[あぶない刑事の木の実ナナとか。 新鮮組！の堺雅人さんとか。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[調布のワクチン地域接種のローカルルールを告発したい]]></title>
+        <id>https://anond.hatelabo.jp/20210825174800</id>
+        <link href="https://anond.hatelabo.jp/20210825174800"/>
+        <updated>2021-08-25T08:59:24.000Z</updated>
+        <summary type="html"><![CDATA[私は都内で働く内科医である。 ここ数か月ワクチン接種問診バイトというものが医師求人サイトに掲載されており、私も時間が空くと勤務している。 主な仕事は問診し接種可能か不可能かを判断し、可能な場合は接種後の待機時間を15分か30分か判断することである。 判断基準は厚生労働省が発布する手引き（https://www.mhlw...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アニメ】アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』【アイドルマスター】]]></title>
+        <id>https://www.youtube.com/watch?v=HJKqSYK_z0w</id>
+        <link href="https://www.youtube.com/watch?v=HJKqSYK_z0w"/>
+        <updated>2021-08-25T07:42:41.000Z</updated>
+        <summary type="html"><![CDATA[アイドルマスターシリーズ15周年のその先の未来へ向け、TVアニメ「アイドルマスター」チームが再集結。 錦織監督とCloverworksによる完全新作アニメーションコンセプトムービー。 本作はさらにスタジオカラーがビジュアル制作として制作に参加し、 15人のアイドルたちによるイメージソング『VOY@GER』が、コンセプトムー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相“側近”　横浜市副市長がカジノIR業者から高級料亭で61万円接待 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/48139</id>
+        <link href="https://bunshun.jp/articles/-/48139"/>
+        <updated>2021-08-25T07:34:00.000Z</updated>
+        <summary type="html"><![CDATA[横浜市の副市長を務める平原敏英氏（62）が、カジノIR構想への参入を狙う業者から、2016年当時、度々高級料亭で接待を受けていたことが森功氏（ノンフィクション作家）の取材で分かった。森氏は業者側が後に参入計画を巡ってトラブルになり民事調停を行った際の資料を入手。そこには接待の詳細な記録や、費用を負担した...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープン化が進むC++の現状と展望 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang</id>
+        <link href="https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang"/>
+        <updated>2021-08-25T07:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Public/Private Multi-Monorepo For PHP Projects]]></title>
+        <id>https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/</id>
+        <link href="https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/"/>
+        <updated>2021-08-25T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Leonardo explains how to use a "multi-monorepo" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『Nevermind』のカヴァー・ベイビー、ニルヴァーナを児童ポルノで提訴 - amass]]></title>
+        <id>https://amass.jp/150220/</id>
+        <link href="https://amass.jp/150220/"/>
+        <updated>2021-08-25T05:16:10.000Z</updated>
+        <summary type="html"><![CDATA[ニルヴァーナ（Nirvana）のメンバーと、カート・コバーン（Kurt Cobain）の遺産を管理するエステートは、アルバム『Nevermind』のジャケット・カヴァーに赤ん坊として登場したスペンサー・エルデンから訴えられたと報じられています。エルデンは、バンドが連邦児童ポルノ法に違反し、児童の性的搾取を行ったと主張してい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ感染 人工呼吸器６日間眠り続け生還の記録 | NHK政治マガジン]]></title>
+        <id>https://www.nhk.or.jp/politics/articles/feature/66133.html</id>
+        <link href="https://www.nhk.or.jp/politics/articles/feature/66133.html"/>
+        <updated>2021-08-25T03:55:51.000Z</updated>
+        <summary type="html"><![CDATA[夜中も響く電子音、指先には24時間酸素飽和度を測る機器がついている。 53歳。NHKで選挙報道の仕事をしている私は、新型コロナウイルス感染症により7月下旬から1か月間都内の病院に入院した。肺炎で一時重症にもなり、6日間人工呼吸器につながり眠り続けた。 いま、自宅療養者が十分な医療を受けられないことが問題とな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[若冲のデコトラに乗った布袋がキルビルを弾く「パラリンピック開会式」がまさに求めていたものすぎた - Togetter]]></title>
+        <id>https://togetter.com/li/1764795</id>
+        <link href="https://togetter.com/li/1764795"/>
+        <updated>2021-08-25T03:32:48.000Z</updated>
+        <summary type="html"><![CDATA[iek @iekiek1984 パラリンピック開会式の流れ 片翼の飛行機「わたしは飛べないの(´・ω・`)」 仲間たち「わたしは目が見えないけど飛べたよ！」「ワイは小さいけど飛べたで！」 片翼の飛行機「でもなぁ…(´・ω・`)」 デコトラに乗ったHOTEI「俺のギターを聴け！」ｷﾞｭﾜｰﾝ 片翼の飛行機「よし、飛ぶ！！(`・ω・´)」 2021-08-...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「四川料理のスゴい人」これまでの全レシピ14品目の振り返り＆総まとめ - メシ通 | ホットペッパーグルメ]]></title>
+        <id>https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545</id>
+        <link href="https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545"/>
+        <updated>2021-08-25T01:33:58.000Z</updated>
+        <summary type="html"><![CDATA[人長さんのこれまでの記事を総ざらい 「四川料理のスゴい人」こと、日本橋の四川料理店リバヨンアタック料理長・人長良次さん。 人長さんのレシピを集めた書籍も絶賛発売中です。 ▼人長さん初の著書『四川料理のスゴい人 自宅でつくる本格中華レシピ』（三才ブックス） www.sansaibooks.co.jp これまで『メシ通』でもさ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドの慣習のまとめ - Qiita]]></title>
+        <id>https://qiita.com/k__watanabe/items/0dc5b31ea960db118926</id>
+        <link href="https://qiita.com/k__watanabe/items/0dc5b31ea960db118926"/>
+        <updated>2021-08-25T00:15:52.000Z</updated>
+        <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article?]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Google ドライブ」アプリのアカウント移行を忘れずに！　9月末までに済ませよう - やじうまの杜 - 窓の杜]]></title>
         <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html</id>
@@ -10230,350 +10616,6 @@ The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can
         <link href="https://nordot.app/792743738642399232"/>
         <updated>2021-07-27T13:30:13.000Z</updated>
         <summary type="html"><![CDATA[東京都内で新型コロナウイルスの感染者数が過去最多の2848人となった27日、都は吉村憲彦福祉保健局長が報道各社に現状を説明した。年末年始の2千人台とは医療提供体制やワクチン接種などで状況が違い、死者が急増することはないと強調。「いたずらに不安をあおることはしていただきたくない」と要望した。都が従来呼び掛...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 厚労省「こうなる事を想定し国民にお願いしていたが､国民は政府を信頼してないのでどんなメッセージ出しても共感してもらえない」 - ライブドアブログ]]></title>
-        <id>http://blog.livedoor.jp/dqnplus/archives/2009479.html</id>
-        <link href="http://blog.livedoor.jp/dqnplus/archives/2009479.html"/>
-        <updated>2021-07-27T12:18:41.000Z</updated>
-        <summary type="html"><![CDATA[厚労省「こうなる事を想定し国民にお願いしていたが､国民は政府を信頼してないのでどんなメッセージ出しても共感してもらえない」 1 名前：potato ★：2021/07/27(火) 19:20:58.62 ID:ntrLaIwz9 厚労省 幹部「感染者の増加 想定より早い」 厚生労働省の幹部の1人は「インドで確認された変異ウイルスの『デルタ株』の感染...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立民、統治能力欠如が浮き彫り　本多氏議員辞職へ - 産経ニュース]]></title>
-        <id>https://www.sankei.com/article/20210727-5S6SMX2JLZN7JLSNLQRHIRO4OA/</id>
-        <link href="https://www.sankei.com/article/20210727-5S6SMX2JLZN7JLSNLQRHIRO4OA/"/>
-        <updated>2021-07-27T12:08:29.000Z</updated>
-        <summary type="html"><![CDATA[本多平直衆院議員立憲民主党のワーキングチーム（ＷＴ）の議論で性交同意年齢に関し「５０代が１４歳と恋愛し同意があった場合に罰せられるのはおかしい」などと発言した同党の本多平直衆院議員＝比例北海道＝が２７日、離党届を提出し、党は受理した。本多氏はその後の記者会見で議員辞職する意向を表明した。立民執行...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＩＯＣ　東京のコロナ感染者急増「コメントするのは私ではない」：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/119781</id>
-        <link href="https://www.tokyo-np.co.jp/article/119781"/>
-        <updated>2021-07-27T11:53:31.000Z</updated>
-        <summary type="html"><![CDATA[大会組織委員会はこの日、選手・関係者から新たに７人の検査陽性者が出たと発表。うち選手２人を含めた５人が海外在住者だった。７月１日からの累計は１６０人に達し、そのうち海外在住者が７９人で、ほぼ半数となっている。 会見では「東京五輪を開催するタイミングは適切だったか」という質問も飛んだ。アダムス氏は選...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「救急搬送困難事案」が大幅増　コロナ疑いは1.6倍 ｜ 共同通信]]></title>
-        <id>https://nordot.app/792719111059390464</id>
-        <link href="https://nordot.app/792719111059390464"/>
-        <updated>2021-07-27T11:46:08.000Z</updated>
-        <summary type="html"><![CDATA[総務省消防庁は27日、患者の搬送先がすぐに決まらない「救急搬送困難事案」が、19～25日の1週間に全国52の消防で2202件あったと発表した。前週より43％多く、3週連続の増加。このうち37度以上の発熱や呼吸困難などの症状があり、新型コロナウイルス感染が疑われる事案は698件で、前週の1.6倍と大幅に増えた。 東京、大阪...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月25日掲載のオリンピックに関するコラムにつきまして | Game*Spark - 国内・海外ゲーム情報サイト]]></title>
-        <id>https://www.gamespark.jp/article/2021/07/27/110661.html</id>
-        <link href="https://www.gamespark.jp/article/2021/07/27/110661.html"/>
-        <updated>2021-07-27T11:35:45.000Z</updated>
-        <summary type="html"><![CDATA[日頃よりGame*Sparkをご愛読いただきありがとうございます。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五輪開会式出演依頼をキャンセル…セネガル人音楽家「差別されるとは」　組織委側に抗議：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/119772</id>
-        <link href="https://www.tokyo-np.co.jp/article/119772"/>
-        <updated>2021-07-27T11:32:46.000Z</updated>
-        <summary type="html"><![CDATA[石川県加賀市での大田楽と狂言の公演で、歌と共にパーカッションの演奏を披露したラティールさん＝２０１６年７月（本人提供） 東京五輪の開会式に出演が決まっていた西アフリカ・セネガル出身の打楽器奏者ラティール・シーさん（４８）が今年５月、式典の企画・運営を担った広告代理店から出演を断られていたことが分か...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「どうしても日本人としたいんだ！」“外出禁止”の五輪選手村で “出会い系アプリ”が大流行のリアル | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47404</id>
-        <link href="https://bunshun.jp/articles/-/47404"/>
-        <updated>2021-07-27T11:16:14.000Z</updated>
-        <summary type="html"><![CDATA[中央区晴海にある東京五輪・パラリンピック選手村付近。 出会い系アプリ「Tinder」を起動すると引き締まった肉体でポーズをとり、これみよがしに自信に満ちた肉体美を魅せる選手たちが男女どちらも確認できる。プロフィールの背景には五輪のエンブレム、自国の国旗や競技名が書かれ《Here for the olympics!》、《Olympi...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
-        <updated>2021-07-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拝啓、立憲民主党様。「国民舐めんな」の言葉と真心を今君たちに。｜helixmakimaki｜note]]></title>
-        <id>https://note.com/helixmakimaki/n/n7e417f067125</id>
-        <link href="https://note.com/helixmakimaki/n/n7e417f067125"/>
-        <updated>2021-07-27T10:41:55.000Z</updated>
-        <summary type="html"><![CDATA[いつのことだか思い出してごらん。あんなこと、こんなこと、あったでしょう？ 「『三連休を挟めば忘れる』だなんて、国民を馬鹿にしないでください。」 この言葉が誰の言葉か覚えている人はいるだろうか。 2015年9月15日 Students Emergency Action for Liberal Democracy - s 自由と民主主義のための学生緊急行動 「SEA...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[発売中止となった開会式公式プログラムが拡散？東京オリンピック《演出・小林賢太郎》の真相～沸いたピクトグラム～｜のやまやの｜note]]></title>
-        <id>https://note.com/noyamaayon/n/n98c35152ebb3</id>
-        <link href="https://note.com/noyamaayon/n/n98c35152ebb3"/>
-        <updated>2021-07-27T09:52:24.000Z</updated>
-        <summary type="html"><![CDATA[ショーディレクター解任報道により、急きょ発売中止となった、幻の「開会式プログラム」。その中の、演出・小林賢太郎氏のインタビューを読んだ私は、この記事を書かねばならないと思った。インタビュー内容は後述するが、とにかく、私が知りうる限りの事実を、正確に、わかりやすく、順を追って、ここに記そうと思う。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菅首相　五輪「中止の選択肢ない」　東京のコロナ感染、最多の2848人も：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/119736</id>
-        <link href="https://www.tokyo-np.co.jp/article/119736"/>
-        <updated>2021-07-27T09:32:45.000Z</updated>
-        <summary type="html"><![CDATA[菅義偉首相は２７日夕、東京都の新型コロナウイルス感染者が過去最多の２８４８人となったことに絡み、東京五輪をこのまま続けるかについて「人流は減っている。そこ（中止）はありません」と述べた。記者団から「感染は拡大している。中止の選択肢はないのか」と質問されたのに答えた。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixivメッセージで受けた巧妙な嫌がらせについて｜幸坊｜note]]></title>
-        <id>https://note.com/yukinbo78/n/n60ac0f23dd2d</id>
-        <link href="https://note.com/yukinbo78/n/n60ac0f23dd2d"/>
-        <updated>2021-07-27T08:07:44.000Z</updated>
-        <summary type="html"><![CDATA[昨今、ネットでの誹謗中傷や嫌がらせによるトラブルが頻繁に発生しています。 今回、しがない一絵描きである私自身がPixivメッセージにて 『あからさまではないが、確実にクリエイターを攻撃してくる』 事案に遭遇しましたので、 今後、もしくは今までに同様のことに遭遇した方向けの注意喚起として、その紹介と『やりと...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京都 新型コロナ 2848人の感染確認 過去最多 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html"/>
-        <updated>2021-07-27T07:15:28.000Z</updated>
-        <summary type="html"><![CDATA[東京都は27日、都内で新たに2848人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の火曜日より1461人増え過去最多となりました。1日に2000人を超えるのは第3波のことし1月15日以来で、感染の急拡大に歯止めがかかりません。 一方、都の基準で集計した27日時点の重症の患者は26日より4人増え...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本初のIBM製「ゲート型商用量子コンピュータ」が新川崎で稼働。アメリカ、ドイツに次いで世界で3番目 - PC Watch]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/news/1340386.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/news/1340386.html"/>
-        <updated>2021-07-27T07:05:48.000Z</updated>
-        <summary type="html"><![CDATA[日本アイ・ビー・エム株式会社(IBM)は7月27日、日本初となるゲート型商用量子コンピューティング・システム「IBM Quantum System One」を神奈川県川崎市に設置・稼働開始したと発表し、記念セレモニーを行なった。設置場所は「新川崎・創造のもり」地区に位置する産学交流インキュベーション施設「かわさき新産業創造センター(KBIC)」。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイボウズの“駆け出しエンジニア”向け研修資料が話題　Webアプリ開発やIT文化の基礎を無償公開 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2107/27/news115.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2107/27/news115.html"/>
-        <updated>2021-07-27T07:04:22.000Z</updated>
-        <summary type="html"><![CDATA[サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の基礎知識などが学べるといい、「初心者（エンジニア）の指針になる」などの声が出ている。 サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連れていった公園も水族館も遊園地も、今や子どもは覚えていない「夏休みの日々は親の記憶のためにあった」という話 - Togetter]]></title>
-        <id>https://togetter.com/li/1750665</id>
-        <link href="https://togetter.com/li/1750665"/>
-        <updated>2021-07-27T07:03:16.000Z</updated>
-        <summary type="html"><![CDATA[ヲノサトル @wonosatoru 作曲家/音楽家/多摩美術大学教授/明和電機「経理のヲノさん」/ブラックベルベッツ鍵盤奏者など。ご連絡はこちらからどうぞ wonosatoru.com/mail wonosatoru.com ヲノサトル @wonosatoru あれほど連れて行った公園も水族館も遊園地も息子氏は全くおぼえていない。子供のためだから仕方ないやと出...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[池袋のスリランカ料理店、その名も「フロリダ亭」――。最高にうまいバナナリーフカレーをお安く食べるならここ！ - ぐるなび みんなのごはん]]></title>
-        <id>https://r.gnavi.co.jp/g-interview/entry/narumi/5203</id>
-        <link href="https://r.gnavi.co.jp/g-interview/entry/narumi/5203"/>
-        <updated>2021-07-27T03:39:48.000Z</updated>
-        <summary type="html"><![CDATA[この1年ほどめちゃくちゃハマっているカレーのお店が池袋にあります。 正確にはカレー屋ではなく、スリランカ料理店。看板料理はたくさんの具をバナナの皮で包んだ「バナナリーフカレー」です。 そしてスリランカ料理なのに店名は「フロリダ亭」。 はい、なんだか混乱してきますね。 でもここはとにかく最高なんです。お...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピック女子ロードレースの奇跡を素人にも分かるよう解説する]]></title>
-        <id>https://anond.hatelabo.jp/20210727115101</id>
-        <link href="https://anond.hatelabo.jp/20210727115101"/>
-        <updated>2021-07-27T02:55:27.000Z</updated>
-        <summary type="html"><![CDATA[7/25(日) 13:00から行われた東京オリンピック 女子ロードレースで奇跡が起こりましたので普段、自転車ロードレースに関心の無い方でも分かるよう解説してみました。 何が起こったのかオーストリアから単独で参加していたプロではない博士号持ちの数学研究者アンナ・キーセンホーファー選手がスタート直後から飛び出し、...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デザインに活かせるフレームワーク20｜金 成奎｜note]]></title>
-        <id>https://note.com/seikei_kin/n/nd26d58dec7ac</id>
-        <link href="https://note.com/seikei_kin/n/nd26d58dec7ac"/>
-        <updated>2021-07-27T02:01:22.000Z</updated>
-        <summary type="html"><![CDATA[久しぶりのnote投稿です。今回は自分の勉強がてら、UX・情報設計・アジャイル開発など、デザインに関わる様々な局面で知っておくと役立つフレームワークを集めてみました。 有名なものからデザイン以外にも使えそうなものまで幅広く選んでいますので、気になるものがあれば改めて実作業に生かすなり、掘り下げて研究する...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying styled-components]]></title>
-        <id>https://css-tricks.com/?p=345297</id>
-        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
-        <updated>2021-07-27T00:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
-styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
-The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
-        <id>60fc070722b0e2078fcd0ae1</id>
-        <link href="https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/"/>
-        <updated>2021-07-26T23:01:30.000Z</updated>
-        <summary type="html"><![CDATA[The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
-        <id>60f746ee1d2b080797b807f6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-remote-jobs/"/>
-        <updated>2021-07-26T21:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations using React, React Hooks, and Axios]]></title>
-        <id>60fa671e1d2b080797b81cd4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/"/>
-        <updated>2021-07-26T21:41:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「MPCに礼拝室とハラールフードがない？」について、東京オリンピック・パラリンピック競技大会組織委員会へ事実確認を行いました | Food Diversity.today]]></title>
-        <id>https://fooddiversity.today/article_95626.html</id>
-        <link href="https://fooddiversity.today/article_95626.html"/>
-        <updated>2021-07-26T20:39:47.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック・パラリンピック競技大会組織委員会にご回答頂きました 2021年7月24日に共同通信社から『東京五輪を取材する国内外のメディアの拠点、メインプレスセンター（MPC）に、イスラム教の礼拝室や戒律に従った「ハラル」料理が準備されておらず、ムスリム（イスラム教徒）から不評を買っている。』というニュ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ベネチア国際映画祭」湯浅政明監督の「犬王」ノミネート | エンタメ | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html"/>
-        <updated>2021-07-26T20:25:04.000Z</updated>
-        <summary type="html"><![CDATA[ことし9月にイタリアで開幕する世界3大映画祭の1つ「ベネチア国際映画祭」で革新的な作品を集めた「オリゾンティ部門」に湯浅政明監督のアニメ映画「犬王」がノミネートされました。 ベネチア国際映画祭はカンヌ、ベルリンと並ぶ世界3大映画祭の1つで、日本時間の26日夜、主要な部門のノミネート作品が発表されました。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Pseudocode? How to Use Pseudocode to Solve Coding Problems]]></title>
-        <id>60fe9a5222b0e2078fcd154f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/"/>
-        <updated>2021-07-26T19:23:37.000Z</updated>
-        <summary type="html"><![CDATA[You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミャンマー軍事政権、総選挙の結果無効に スー・チー氏政党圧勝　写真1枚　国際ニュース：AFPBB News]]></title>
-        <id>https://www.afpbb.com/articles/-/3351556</id>
-        <link href="https://www.afpbb.com/articles/-/3351556"/>
-        <updated>2021-07-26T17:44:18.000Z</updated>
-        <summary type="html"><![CDATA[アウン・サン・スー・チー氏。米ニューヨークのコロンビア大学で（2012年9月22日撮影、資料写真）。(c)Stan HONDA / AFP 【7月27日 AFP】ミャンマーの軍事政権は26日、同国で昨年実施された総選挙は「自由かつ公正」ではなかったとして、選挙結果を無効とした。同選挙では、今年2月のクーデターで拘束されたアウン・サン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女「露出の無い衣装だから性的に見られなくて安心〜〜〜」]]></title>
-        <id>https://anond.hatelabo.jp/20210727011453</id>
-        <link href="https://anond.hatelabo.jp/20210727011453"/>
-        <updated>2021-07-26T16:17:22.000Z</updated>
-        <summary type="html"><![CDATA[十ーーーーーー分エロいですからーーーーーーーーーーーー！！！！！！！！！！！残念！！！！！！！！！！！！！！！！！ ていうかユニフォームにしたって学校指定水着にしたって丈が長いから全身覆ってるから性的に見られなくなると思ってるの、女ってそこまで単純な生き物なの？ 逆にこっちがナメられてるようで腹立...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html</id>
-        <link href="https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html"/>
-        <updated>2021-07-26T15:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here. https://t...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[第17話]ダンダダン - 龍幸伸 | 少年ジャンプ＋]]></title>
-        <id>https://shonenjumpplus.com/episode/3269754496410783844</id>
-        <link href="https://shonenjumpplus.com/episode/3269754496410783844"/>
-        <updated>2021-07-26T15:05:08.000Z</updated>
-        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
-        <id>https://css-tricks.com/?p=344653</id>
-        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
-        <updated>2021-07-26T14:36:13.000Z</updated>
-        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
-The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Luke Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slinkity]]></title>
-        <id>https://css-tricks.com/?p=345288</id>
-        <link href="https://slinkity.dev/"/>
-        <updated>2021-07-26T14:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
-The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無観客なのに…卓球の混合ダブルス決勝に“謎の中国応援団”（スポニチアネックス） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/d96aa0453b6aca827fe4dcff3123edee8e999868</id>
-        <link href="https://news.yahoo.co.jp/articles/d96aa0453b6aca827fe4dcff3123edee8e999868"/>
-        <updated>2021-07-26T13:39:03.000Z</updated>
-        <summary type="html"><![CDATA[◇東京五輪　卓球混合ダブルス決勝（2021年7月26日　東京体育館） 混合ダブルス決勝、日本の水谷隼・伊藤美誠組―中国の許キン・劉詩ブン組の対決に、“謎の中国応援団”が現れた。中国の大きな国旗を持った20人ほどの集団が観客席の一角を陣取った。試合前から声援を送り、得点が入るたびに大歓声が上がった。無観客で実施...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリンピック 水谷・伊藤ぺア 卓球で初の金メダル | 卓球 | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html"/>
-        <updated>2021-07-26T13:28:21.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック、卓球の新種目、混合ダブルスの決勝で日本の水谷隼選手と伊藤美誠選手のペアが中国のペアにゲームカウント4対3で勝って金メダルを獲得しました。日本が卓球で金メダルを獲得したのは初めてです。 水谷選手と伊藤選手のペアが26日夜、東京体育館で行われた決勝で対戦したのは、おととしの世界選手権で金...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
